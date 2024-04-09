@@ -1,0 +1,5477 @@
+Model's state_dict for Activation Function: relu, LR Scheduler: StepLR, Optimizer: SGD, BN: True, Regularization: L2, Dropout: True:
+0
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 74058/112800 (66%)
+
+Epoch1: Test accuracy: 12290/18800 (65%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 79242/112800 (70%)
+
+Epoch2: Test accuracy: 13060/18800 (69%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 81726/112800 (72%)
+
+Epoch3: Test accuracy: 13417/18800 (71%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 83117/112800 (74%)
+
+Epoch4: Test accuracy: 13638/18800 (73%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 85072/112800 (75%)
+
+Epoch5: Test accuracy: 13828/18800 (74%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 86385/112800 (77%)
+
+Epoch6: Test accuracy: 14199/18800 (76%)
+Model's state_dict for Activation Function: relu, LR Scheduler: StepLR, Optimizer: SGD, BN: True, Regularization: L2, Dropout: False:
+1
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 91366/112800 (81%)
+
+Epoch1: Test accuracy: 14868/18800 (79%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 95589/112800 (85%)
+
+Epoch2: Test accuracy: 15396/18800 (82%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 97664/112800 (87%)
+
+Epoch3: Test accuracy: 15598/18800 (83%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 98259/112800 (87%)
+
+Epoch4: Test accuracy: 15623/18800 (83%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 99143/112800 (88%)
+
+Epoch5: Test accuracy: 15620/18800 (83%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 101999/112800 (90%)
+
+Epoch6: Test accuracy: 15946/18800 (85%)
+Model's state_dict for Activation Function: relu, LR Scheduler: StepLR, Optimizer: SGD, BN: True, Regularization: No, Dropout: True:
+2
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 74191/112800 (66%)
+
+Epoch1: Test accuracy: 12179/18800 (65%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 79380/112800 (70%)
+
+Epoch2: Test accuracy: 13037/18800 (69%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 81547/112800 (72%)
+
+Epoch3: Test accuracy: 13445/18800 (72%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 84089/112800 (75%)
+
+Epoch4: Test accuracy: 13783/18800 (73%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 85177/112800 (76%)
+
+Epoch5: Test accuracy: 14050/18800 (75%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 86290/112800 (76%)
+
+Epoch6: Test accuracy: 14144/18800 (75%)
+Model's state_dict for Activation Function: relu, LR Scheduler: StepLR, Optimizer: SGD, BN: True, Regularization: No, Dropout: False:
+3
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 91497/112800 (81%)
+
+Epoch1: Test accuracy: 14876/18800 (79%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 95294/112800 (84%)
+
+Epoch2: Test accuracy: 15368/18800 (82%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 97201/112800 (86%)
+
+Epoch3: Test accuracy: 15573/18800 (83%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 96592/112800 (86%)
+
+Epoch4: Test accuracy: 15350/18800 (82%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 99631/112800 (88%)
+
+Epoch5: Test accuracy: 15716/18800 (84%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 101890/112800 (90%)
+
+Epoch6: Test accuracy: 15953/18800 (85%)
+Model's state_dict for Activation Function: relu, LR Scheduler: StepLR, Optimizer: SGD, BN: False, Regularization: L2, Dropout: True:
+4
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 69436/112800 (62%)
+
+Epoch1: Test accuracy: 11494/18800 (61%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 77724/112800 (69%)
+
+Epoch2: Test accuracy: 12858/18800 (68%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 81045/112800 (72%)
+
+Epoch3: Test accuracy: 13388/18800 (71%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 83700/112800 (74%)
+
+Epoch4: Test accuracy: 13804/18800 (73%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 85687/112800 (76%)
+
+Epoch5: Test accuracy: 14067/18800 (75%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 86788/112800 (77%)
+
+Epoch6: Test accuracy: 14240/18800 (76%)
+Model's state_dict for Activation Function: relu, LR Scheduler: StepLR, Optimizer: SGD, BN: False, Regularization: L2, Dropout: False:
+5
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 77032/112800 (68%)
+
+Epoch1: Test accuracy: 12722/18800 (68%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 86730/112800 (77%)
+
+Epoch2: Test accuracy: 14236/18800 (76%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 90569/112800 (80%)
+
+Epoch3: Test accuracy: 14795/18800 (79%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 92148/112800 (82%)
+
+Epoch4: Test accuracy: 14965/18800 (80%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 95454/112800 (85%)
+
+Epoch5: Test accuracy: 15447/18800 (82%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 96913/112800 (86%)
+
+Epoch6: Test accuracy: 15689/18800 (83%)
+Model's state_dict for Activation Function: relu, LR Scheduler: StepLR, Optimizer: SGD, BN: False, Regularization: No, Dropout: True:
+6
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 69175/112800 (61%)
+
+Epoch1: Test accuracy: 11519/18800 (61%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 77361/112800 (69%)
+
+Epoch2: Test accuracy: 12800/18800 (68%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 81317/112800 (72%)
+
+Epoch3: Test accuracy: 13344/18800 (71%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 83845/112800 (74%)
+
+Epoch4: Test accuracy: 13812/18800 (73%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 85302/112800 (76%)
+
+Epoch5: Test accuracy: 14000/18800 (74%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 86733/112800 (77%)
+
+Epoch6: Test accuracy: 14250/18800 (76%)
+Model's state_dict for Activation Function: relu, LR Scheduler: StepLR, Optimizer: SGD, BN: False, Regularization: No, Dropout: False:
+7
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 78834/112800 (70%)
+
+Epoch1: Test accuracy: 12995/18800 (69%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 86804/112800 (77%)
+
+Epoch2: Test accuracy: 14291/18800 (76%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 91408/112800 (81%)
+
+Epoch3: Test accuracy: 14923/18800 (79%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 93502/112800 (83%)
+
+Epoch4: Test accuracy: 15230/18800 (81%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 95348/112800 (85%)
+
+Epoch5: Test accuracy: 15443/18800 (82%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 97009/112800 (86%)
+
+Epoch6: Test accuracy: 15678/18800 (83%)
+Model's state_dict for Activation Function: relu, LR Scheduler: StepLR, Optimizer: Adam, BN: True, Regularization: L2, Dropout: True:
+8
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 64893/112800 (58%)
+
+Epoch1: Test accuracy: 10704/18800 (57%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 64097/112800 (57%)
+
+Epoch2: Test accuracy: 10652/18800 (57%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 64998/112800 (58%)
+
+Epoch3: Test accuracy: 10617/18800 (56%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 65311/112800 (58%)
+
+Epoch4: Test accuracy: 10709/18800 (57%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 65316/112800 (58%)
+
+Epoch5: Test accuracy: 10747/18800 (57%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 77968/112800 (69%)
+
+Epoch6: Test accuracy: 12863/18800 (68%)
+Model's state_dict for Activation Function: relu, LR Scheduler: StepLR, Optimizer: Adam, BN: True, Regularization: L2, Dropout: False:
+9
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 85127/112800 (75%)
+
+Epoch1: Test accuracy: 13985/18800 (74%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 88184/112800 (78%)
+
+Epoch2: Test accuracy: 14434/18800 (77%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 87595/112800 (78%)
+
+Epoch3: Test accuracy: 14367/18800 (76%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 89200/112800 (79%)
+
+Epoch4: Test accuracy: 14587/18800 (78%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 88777/112800 (79%)
+
+Epoch5: Test accuracy: 14486/18800 (77%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 96374/112800 (85%)
+
+Epoch6: Test accuracy: 15639/18800 (83%)
+Model's state_dict for Activation Function: relu, LR Scheduler: StepLR, Optimizer: Adam, BN: True, Regularization: No, Dropout: True:
+10
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 68010/112800 (60%)
+
+Epoch1: Test accuracy: 11311/18800 (60%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 71569/112800 (63%)
+
+Epoch2: Test accuracy: 11747/18800 (62%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 73425/112800 (65%)
+
+Epoch3: Test accuracy: 12190/18800 (65%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 74016/112800 (66%)
+
+Epoch4: Test accuracy: 12205/18800 (65%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 74981/112800 (66%)
+
+Epoch5: Test accuracy: 12282/18800 (65%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 82236/112800 (73%)
+
+Epoch6: Test accuracy: 13456/18800 (72%)
+Model's state_dict for Activation Function: relu, LR Scheduler: StepLR, Optimizer: Adam, BN: True, Regularization: No, Dropout: False:
+11
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 89957/112800 (80%)
+
+Epoch1: Test accuracy: 14606/18800 (78%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 92784/112800 (82%)
+
+Epoch2: Test accuracy: 15075/18800 (80%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 93079/112800 (83%)
+
+Epoch3: Test accuracy: 15072/18800 (80%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 95105/112800 (84%)
+
+Epoch4: Test accuracy: 15355/18800 (82%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 95944/112800 (85%)
+
+Epoch5: Test accuracy: 15336/18800 (82%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 100887/112800 (89%)
+
+Epoch6: Test accuracy: 16008/18800 (85%)
+Model's state_dict for Activation Function: relu, LR Scheduler: StepLR, Optimizer: Adam, BN: False, Regularization: L2, Dropout: True:
+12
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 2417/112800 (2%)
+
+Epoch1: Test accuracy: 405/18800 (2%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 2413/112800 (2%)
+
+Epoch2: Test accuracy: 405/18800 (2%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 2436/112800 (2%)
+
+Epoch3: Test accuracy: 404/18800 (2%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 2406/112800 (2%)
+
+Epoch4: Test accuracy: 402/18800 (2%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 2472/112800 (2%)
+
+Epoch5: Test accuracy: 413/18800 (2%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 2404/112800 (2%)
+
+Epoch6: Test accuracy: 399/18800 (2%)
+Model's state_dict for Activation Function: relu, LR Scheduler: StepLR, Optimizer: Adam, BN: False, Regularization: L2, Dropout: False:
+13
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 8847/112800 (8%)
+
+Epoch1: Test accuracy: 1477/18800 (8%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 7610/112800 (7%)
+
+Epoch2: Test accuracy: 1211/18800 (6%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 7243/112800 (6%)
+
+Epoch3: Test accuracy: 1184/18800 (6%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 3223/112800 (3%)
+
+Epoch4: Test accuracy: 538/18800 (3%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 3455/112800 (3%)
+
+Epoch5: Test accuracy: 566/18800 (3%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 13150/112800 (12%)
+
+Epoch6: Test accuracy: 2167/18800 (12%)
+Model's state_dict for Activation Function: relu, LR Scheduler: StepLR, Optimizer: Adam, BN: False, Regularization: No, Dropout: True:
+14
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 2392/112800 (2%)
+
+Epoch1: Test accuracy: 399/18800 (2%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 2409/112800 (2%)
+
+Epoch2: Test accuracy: 399/18800 (2%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 2407/112800 (2%)
+
+Epoch3: Test accuracy: 401/18800 (2%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 2402/112800 (2%)
+
+Epoch4: Test accuracy: 400/18800 (2%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 2400/112800 (2%)
+
+Epoch5: Test accuracy: 400/18800 (2%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 2401/112800 (2%)
+
+Epoch6: Test accuracy: 400/18800 (2%)
+Model's state_dict for Activation Function: relu, LR Scheduler: StepLR, Optimizer: Adam, BN: False, Regularization: No, Dropout: False:
+15
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 4584/112800 (4%)
+
+Epoch1: Test accuracy: 753/18800 (4%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 4476/112800 (4%)
+
+Epoch2: Test accuracy: 754/18800 (4%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 4493/112800 (4%)
+
+Epoch3: Test accuracy: 752/18800 (4%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 4696/112800 (4%)
+
+Epoch4: Test accuracy: 783/18800 (4%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 4737/112800 (4%)
+
+Epoch5: Test accuracy: 791/18800 (4%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 4751/112800 (4%)
+
+Epoch6: Test accuracy: 793/18800 (4%)
+Model's state_dict for Activation Function: relu, LR Scheduler: StepLR, Optimizer: ASGD, BN: True, Regularization: L2, Dropout: True:
+16
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 73599/112800 (65%)
+
+Epoch1: Test accuracy: 12169/18800 (65%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 79425/112800 (70%)
+
+Epoch2: Test accuracy: 13022/18800 (69%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 82241/112800 (73%)
+
+Epoch3: Test accuracy: 13534/18800 (72%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 83802/112800 (74%)
+
+Epoch4: Test accuracy: 13771/18800 (73%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 85000/112800 (75%)
+
+Epoch5: Test accuracy: 13915/18800 (74%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 86109/112800 (76%)
+
+Epoch6: Test accuracy: 14154/18800 (75%)
+Model's state_dict for Activation Function: relu, LR Scheduler: StepLR, Optimizer: ASGD, BN: True, Regularization: L2, Dropout: False:
+17
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 90974/112800 (81%)
+
+Epoch1: Test accuracy: 14850/18800 (79%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 94636/112800 (84%)
+
+Epoch2: Test accuracy: 15236/18800 (81%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 97013/112800 (86%)
+
+Epoch3: Test accuracy: 15477/18800 (82%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 97681/112800 (87%)
+
+Epoch4: Test accuracy: 15555/18800 (83%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 98462/112800 (87%)
+
+Epoch5: Test accuracy: 15559/18800 (83%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 101868/112800 (90%)
+
+Epoch6: Test accuracy: 15989/18800 (85%)
+Model's state_dict for Activation Function: relu, LR Scheduler: StepLR, Optimizer: ASGD, BN: True, Regularization: No, Dropout: True:
+18
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 74301/112800 (66%)
+
+Epoch1: Test accuracy: 12167/18800 (65%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 79513/112800 (70%)
+
+Epoch2: Test accuracy: 13046/18800 (69%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 81646/112800 (72%)
+
+Epoch3: Test accuracy: 13464/18800 (72%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 83651/112800 (74%)
+
+Epoch4: Test accuracy: 13806/18800 (73%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 85274/112800 (76%)
+
+Epoch5: Test accuracy: 13948/18800 (74%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 86614/112800 (77%)
+
+Epoch6: Test accuracy: 14174/18800 (75%)
+Model's state_dict for Activation Function: relu, LR Scheduler: StepLR, Optimizer: ASGD, BN: True, Regularization: No, Dropout: False:
+19
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 90683/112800 (80%)
+
+Epoch1: Test accuracy: 14825/18800 (79%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 95357/112800 (85%)
+
+Epoch2: Test accuracy: 15366/18800 (82%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 97624/112800 (87%)
+
+Epoch3: Test accuracy: 15640/18800 (83%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 99065/112800 (88%)
+
+Epoch4: Test accuracy: 15759/18800 (84%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 99380/112800 (88%)
+
+Epoch5: Test accuracy: 15696/18800 (83%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 101894/112800 (90%)
+
+Epoch6: Test accuracy: 15994/18800 (85%)
+Model's state_dict for Activation Function: relu, LR Scheduler: StepLR, Optimizer: ASGD, BN: False, Regularization: L2, Dropout: True:
+20
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 69689/112800 (62%)
+
+Epoch1: Test accuracy: 11506/18800 (61%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 77925/112800 (69%)
+
+Epoch2: Test accuracy: 12847/18800 (68%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 81275/112800 (72%)
+
+Epoch3: Test accuracy: 13335/18800 (71%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 83740/112800 (74%)
+
+Epoch4: Test accuracy: 13773/18800 (73%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 85598/112800 (76%)
+
+Epoch5: Test accuracy: 14077/18800 (75%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 86705/112800 (77%)
+
+Epoch6: Test accuracy: 14228/18800 (76%)
+Model's state_dict for Activation Function: relu, LR Scheduler: StepLR, Optimizer: ASGD, BN: False, Regularization: L2, Dropout: False:
+21
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 78459/112800 (70%)
+
+Epoch1: Test accuracy: 12937/18800 (69%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 88033/112800 (78%)
+
+Epoch2: Test accuracy: 14457/18800 (77%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 91264/112800 (81%)
+
+Epoch3: Test accuracy: 14911/18800 (79%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 92401/112800 (82%)
+
+Epoch4: Test accuracy: 14995/18800 (80%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 95345/112800 (85%)
+
+Epoch5: Test accuracy: 15507/18800 (82%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 96665/112800 (86%)
+
+Epoch6: Test accuracy: 15662/18800 (83%)
+Model's state_dict for Activation Function: relu, LR Scheduler: StepLR, Optimizer: ASGD, BN: False, Regularization: No, Dropout: True:
+22
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 69645/112800 (62%)
+
+Epoch1: Test accuracy: 11558/18800 (61%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 77464/112800 (69%)
+
+Epoch2: Test accuracy: 12852/18800 (68%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 81400/112800 (72%)
+
+Epoch3: Test accuracy: 13395/18800 (71%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 83898/112800 (74%)
+
+Epoch4: Test accuracy: 13780/18800 (73%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 84760/112800 (75%)
+
+Epoch5: Test accuracy: 13951/18800 (74%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 86723/112800 (77%)
+
+Epoch6: Test accuracy: 14198/18800 (76%)
+Model's state_dict for Activation Function: relu, LR Scheduler: StepLR, Optimizer: ASGD, BN: False, Regularization: No, Dropout: False:
+23
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 77563/112800 (69%)
+
+Epoch1: Test accuracy: 12741/18800 (68%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 87288/112800 (77%)
+
+Epoch2: Test accuracy: 14325/18800 (76%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 88972/112800 (79%)
+
+Epoch3: Test accuracy: 14523/18800 (77%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 93159/112800 (83%)
+
+Epoch4: Test accuracy: 15148/18800 (81%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 93589/112800 (83%)
+
+Epoch5: Test accuracy: 15147/18800 (81%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 96836/112800 (86%)
+
+Epoch6: Test accuracy: 15691/18800 (83%)
+Model's state_dict for Activation Function: relu, LR Scheduler: ExponentialLR, Optimizer: SGD, BN: True, Regularization: L2, Dropout: True:
+24
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 73961/112800 (66%)
+
+Epoch1: Test accuracy: 12130/18800 (65%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 76810/112800 (68%)
+
+Epoch2: Test accuracy: 12700/18800 (68%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 77428/112800 (69%)
+
+Epoch3: Test accuracy: 12756/18800 (68%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 77495/112800 (69%)
+
+Epoch4: Test accuracy: 12753/18800 (68%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 77656/112800 (69%)
+
+Epoch5: Test accuracy: 12779/18800 (68%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 77623/112800 (69%)
+
+Epoch6: Test accuracy: 12745/18800 (68%)
+Model's state_dict for Activation Function: relu, LR Scheduler: ExponentialLR, Optimizer: SGD, BN: True, Regularization: L2, Dropout: False:
+25
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 91510/112800 (81%)
+
+Epoch1: Test accuracy: 14950/18800 (80%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 94498/112800 (84%)
+
+Epoch2: Test accuracy: 15366/18800 (82%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 94904/112800 (84%)
+
+Epoch3: Test accuracy: 15428/18800 (82%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 95041/112800 (84%)
+
+Epoch4: Test accuracy: 15414/18800 (82%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 95128/112800 (84%)
+
+Epoch5: Test accuracy: 15420/18800 (82%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 95037/112800 (84%)
+
+Epoch6: Test accuracy: 15419/18800 (82%)
+Model's state_dict for Activation Function: relu, LR Scheduler: ExponentialLR, Optimizer: SGD, BN: True, Regularization: No, Dropout: True:
+26
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 73909/112800 (66%)
+
+Epoch1: Test accuracy: 12206/18800 (65%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 76940/112800 (68%)
+
+Epoch2: Test accuracy: 12572/18800 (67%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 77366/112800 (69%)
+
+Epoch3: Test accuracy: 12657/18800 (67%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 77336/112800 (69%)
+
+Epoch4: Test accuracy: 12664/18800 (67%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 77267/112800 (68%)
+
+Epoch5: Test accuracy: 12755/18800 (68%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 77229/112800 (68%)
+
+Epoch6: Test accuracy: 12752/18800 (68%)
+Model's state_dict for Activation Function: relu, LR Scheduler: ExponentialLR, Optimizer: SGD, BN: True, Regularization: No, Dropout: False:
+27
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 89616/112800 (79%)
+
+Epoch1: Test accuracy: 14618/18800 (78%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 94419/112800 (84%)
+
+Epoch2: Test accuracy: 15292/18800 (81%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 94814/112800 (84%)
+
+Epoch3: Test accuracy: 15358/18800 (82%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 94992/112800 (84%)
+
+Epoch4: Test accuracy: 15368/18800 (82%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 94951/112800 (84%)
+
+Epoch5: Test accuracy: 15369/18800 (82%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 94960/112800 (84%)
+
+Epoch6: Test accuracy: 15369/18800 (82%)
+Model's state_dict for Activation Function: relu, LR Scheduler: ExponentialLR, Optimizer: SGD, BN: False, Regularization: L2, Dropout: True:
+28
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 68953/112800 (61%)
+
+Epoch1: Test accuracy: 11394/18800 (61%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 73220/112800 (65%)
+
+Epoch2: Test accuracy: 12117/18800 (64%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 74090/112800 (66%)
+
+Epoch3: Test accuracy: 12223/18800 (65%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 74204/112800 (66%)
+
+Epoch4: Test accuracy: 12259/18800 (65%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 73796/112800 (65%)
+
+Epoch5: Test accuracy: 12284/18800 (65%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 73977/112800 (66%)
+
+Epoch6: Test accuracy: 12160/18800 (65%)
+Model's state_dict for Activation Function: relu, LR Scheduler: ExponentialLR, Optimizer: SGD, BN: False, Regularization: L2, Dropout: False:
+29
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 79307/112800 (70%)
+
+Epoch1: Test accuracy: 13035/18800 (69%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 84167/112800 (75%)
+
+Epoch2: Test accuracy: 13829/18800 (74%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 84885/112800 (75%)
+
+Epoch3: Test accuracy: 13971/18800 (74%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 85028/112800 (75%)
+
+Epoch4: Test accuracy: 13985/18800 (74%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 85066/112800 (75%)
+
+Epoch5: Test accuracy: 13991/18800 (74%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 85076/112800 (75%)
+
+Epoch6: Test accuracy: 13993/18800 (74%)
+Model's state_dict for Activation Function: relu, LR Scheduler: ExponentialLR, Optimizer: SGD, BN: False, Regularization: No, Dropout: True:
+30
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 69795/112800 (62%)
+
+Epoch1: Test accuracy: 11555/18800 (61%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 73750/112800 (65%)
+
+Epoch2: Test accuracy: 12174/18800 (65%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 74249/112800 (66%)
+
+Epoch3: Test accuracy: 12196/18800 (65%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 74496/112800 (66%)
+
+Epoch4: Test accuracy: 12271/18800 (65%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 74414/112800 (66%)
+
+Epoch5: Test accuracy: 12334/18800 (66%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 74456/112800 (66%)
+
+Epoch6: Test accuracy: 12322/18800 (66%)
+Model's state_dict for Activation Function: relu, LR Scheduler: ExponentialLR, Optimizer: SGD, BN: False, Regularization: No, Dropout: False:
+31
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 79676/112800 (71%)
+
+Epoch1: Test accuracy: 13120/18800 (70%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 84636/112800 (75%)
+
+Epoch2: Test accuracy: 13896/18800 (74%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 85206/112800 (76%)
+
+Epoch3: Test accuracy: 13992/18800 (74%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 85333/112800 (76%)
+
+Epoch4: Test accuracy: 13993/18800 (74%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 85348/112800 (76%)
+
+Epoch5: Test accuracy: 13993/18800 (74%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 85348/112800 (76%)
+
+Epoch6: Test accuracy: 13993/18800 (74%)
+Model's state_dict for Activation Function: relu, LR Scheduler: ExponentialLR, Optimizer: Adam, BN: True, Regularization: L2, Dropout: True:
+32
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 63810/112800 (57%)
+
+Epoch1: Test accuracy: 10594/18800 (56%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 79196/112800 (70%)
+
+Epoch2: Test accuracy: 12977/18800 (69%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 83187/112800 (74%)
+
+Epoch3: Test accuracy: 13684/18800 (73%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 83644/112800 (74%)
+
+Epoch4: Test accuracy: 13746/18800 (73%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 83932/112800 (74%)
+
+Epoch5: Test accuracy: 13750/18800 (73%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 83967/112800 (74%)
+
+Epoch6: Test accuracy: 13745/18800 (73%)
+Model's state_dict for Activation Function: relu, LR Scheduler: ExponentialLR, Optimizer: Adam, BN: True, Regularization: L2, Dropout: False:
+33
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 84885/112800 (75%)
+
+Epoch1: Test accuracy: 14000/18800 (74%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 96128/112800 (85%)
+
+Epoch2: Test accuracy: 15567/18800 (83%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 99247/112800 (88%)
+
+Epoch3: Test accuracy: 15948/18800 (85%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 99809/112800 (88%)
+
+Epoch4: Test accuracy: 16001/18800 (85%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 99977/112800 (89%)
+
+Epoch5: Test accuracy: 16019/18800 (85%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 100057/112800 (89%)
+
+Epoch6: Test accuracy: 16023/18800 (85%)
+Model's state_dict for Activation Function: relu, LR Scheduler: ExponentialLR, Optimizer: Adam, BN: True, Regularization: No, Dropout: True:
+34
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 67665/112800 (60%)
+
+Epoch1: Test accuracy: 11190/18800 (60%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 80593/112800 (71%)
+
+Epoch2: Test accuracy: 13285/18800 (71%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 82776/112800 (73%)
+
+Epoch3: Test accuracy: 13574/18800 (72%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 82979/112800 (74%)
+
+Epoch4: Test accuracy: 13579/18800 (72%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 83265/112800 (74%)
+
+Epoch5: Test accuracy: 13658/18800 (73%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 83112/112800 (74%)
+
+Epoch6: Test accuracy: 13738/18800 (73%)
+Model's state_dict for Activation Function: relu, LR Scheduler: ExponentialLR, Optimizer: Adam, BN: True, Regularization: No, Dropout: False:
+35
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 89508/112800 (79%)
+
+Epoch1: Test accuracy: 14505/18800 (77%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 97457/112800 (86%)
+
+Epoch2: Test accuracy: 15671/18800 (83%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 99195/112800 (88%)
+
+Epoch3: Test accuracy: 15909/18800 (85%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 99608/112800 (88%)
+
+Epoch4: Test accuracy: 15969/18800 (85%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 99653/112800 (88%)
+
+Epoch5: Test accuracy: 15967/18800 (85%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 99666/112800 (88%)
+
+Epoch6: Test accuracy: 15969/18800 (85%)
+Model's state_dict for Activation Function: relu, LR Scheduler: ExponentialLR, Optimizer: Adam, BN: False, Regularization: L2, Dropout: True:
+36
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 2467/112800 (2%)
+
+Epoch1: Test accuracy: 416/18800 (2%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 2441/112800 (2%)
+
+Epoch2: Test accuracy: 405/18800 (2%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 2713/112800 (2%)
+
+Epoch3: Test accuracy: 451/18800 (2%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 2821/112800 (3%)
+
+Epoch4: Test accuracy: 464/18800 (2%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 2854/112800 (3%)
+
+Epoch5: Test accuracy: 463/18800 (2%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 2862/112800 (3%)
+
+Epoch6: Test accuracy: 476/18800 (3%)
+Model's state_dict for Activation Function: relu, LR Scheduler: ExponentialLR, Optimizer: Adam, BN: False, Regularization: L2, Dropout: False:
+37
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 7847/112800 (7%)
+
+Epoch1: Test accuracy: 1277/18800 (7%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 31875/112800 (28%)
+
+Epoch2: Test accuracy: 5252/18800 (28%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 54121/112800 (48%)
+
+Epoch3: Test accuracy: 8845/18800 (47%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 60312/112800 (53%)
+
+Epoch4: Test accuracy: 9941/18800 (53%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 61344/112800 (54%)
+
+Epoch5: Test accuracy: 10039/18800 (53%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 61619/112800 (55%)
+
+Epoch6: Test accuracy: 10088/18800 (54%)
+Model's state_dict for Activation Function: relu, LR Scheduler: ExponentialLR, Optimizer: Adam, BN: False, Regularization: No, Dropout: True:
+38
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 2488/112800 (2%)
+
+Epoch1: Test accuracy: 415/18800 (2%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 2430/112800 (2%)
+
+Epoch2: Test accuracy: 407/18800 (2%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 2432/112800 (2%)
+
+Epoch3: Test accuracy: 407/18800 (2%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 2431/112800 (2%)
+
+Epoch4: Test accuracy: 403/18800 (2%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 2432/112800 (2%)
+
+Epoch5: Test accuracy: 403/18800 (2%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 2435/112800 (2%)
+
+Epoch6: Test accuracy: 406/18800 (2%)
+Model's state_dict for Activation Function: relu, LR Scheduler: ExponentialLR, Optimizer: Adam, BN: False, Regularization: No, Dropout: False:
+39
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 7924/112800 (7%)
+
+Epoch1: Test accuracy: 1331/18800 (7%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 9715/112800 (9%)
+
+Epoch2: Test accuracy: 1632/18800 (9%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 10656/112800 (9%)
+
+Epoch3: Test accuracy: 1761/18800 (9%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 10509/112800 (9%)
+
+Epoch4: Test accuracy: 1742/18800 (9%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 10473/112800 (9%)
+
+Epoch5: Test accuracy: 1734/18800 (9%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 10498/112800 (9%)
+
+Epoch6: Test accuracy: 1738/18800 (9%)
+Model's state_dict for Activation Function: relu, LR Scheduler: ExponentialLR, Optimizer: ASGD, BN: True, Regularization: L2, Dropout: True:
+40
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 73986/112800 (66%)
+
+Epoch1: Test accuracy: 12218/18800 (65%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 76768/112800 (68%)
+
+Epoch2: Test accuracy: 12681/18800 (67%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 77502/112800 (69%)
+
+Epoch3: Test accuracy: 12756/18800 (68%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 77567/112800 (69%)
+
+Epoch4: Test accuracy: 12730/18800 (68%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 77485/112800 (69%)
+
+Epoch5: Test accuracy: 12747/18800 (68%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 77595/112800 (69%)
+
+Epoch6: Test accuracy: 12842/18800 (68%)
+Model's state_dict for Activation Function: relu, LR Scheduler: ExponentialLR, Optimizer: ASGD, BN: True, Regularization: L2, Dropout: False:
+41
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 90335/112800 (80%)
+
+Epoch1: Test accuracy: 14749/18800 (78%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 94463/112800 (84%)
+
+Epoch2: Test accuracy: 15295/18800 (81%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 94912/112800 (84%)
+
+Epoch3: Test accuracy: 15354/18800 (82%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 94966/112800 (84%)
+
+Epoch4: Test accuracy: 15370/18800 (82%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 94982/112800 (84%)
+
+Epoch5: Test accuracy: 15371/18800 (82%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 95007/112800 (84%)
+
+Epoch6: Test accuracy: 15373/18800 (82%)
+Model's state_dict for Activation Function: relu, LR Scheduler: ExponentialLR, Optimizer: ASGD, BN: True, Regularization: No, Dropout: True:
+42
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 73631/112800 (65%)
+
+Epoch1: Test accuracy: 12091/18800 (64%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 76742/112800 (68%)
+
+Epoch2: Test accuracy: 12739/18800 (68%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 77478/112800 (69%)
+
+Epoch3: Test accuracy: 12760/18800 (68%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 77442/112800 (69%)
+
+Epoch4: Test accuracy: 12711/18800 (68%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 77494/112800 (69%)
+
+Epoch5: Test accuracy: 12787/18800 (68%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 77485/112800 (69%)
+
+Epoch6: Test accuracy: 12765/18800 (68%)
+Model's state_dict for Activation Function: relu, LR Scheduler: ExponentialLR, Optimizer: ASGD, BN: True, Regularization: No, Dropout: False:
+43
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 91454/112800 (81%)
+
+Epoch1: Test accuracy: 14930/18800 (79%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 94409/112800 (84%)
+
+Epoch2: Test accuracy: 15311/18800 (81%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 94940/112800 (84%)
+
+Epoch3: Test accuracy: 15341/18800 (82%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 95015/112800 (84%)
+
+Epoch4: Test accuracy: 15370/18800 (82%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 94929/112800 (84%)
+
+Epoch5: Test accuracy: 15367/18800 (82%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 94957/112800 (84%)
+
+Epoch6: Test accuracy: 15366/18800 (82%)
+Model's state_dict for Activation Function: relu, LR Scheduler: ExponentialLR, Optimizer: ASGD, BN: False, Regularization: L2, Dropout: True:
+44
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 69598/112800 (62%)
+
+Epoch1: Test accuracy: 11475/18800 (61%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 73199/112800 (65%)
+
+Epoch2: Test accuracy: 12069/18800 (64%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 73806/112800 (65%)
+
+Epoch3: Test accuracy: 12154/18800 (65%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 73889/112800 (66%)
+
+Epoch4: Test accuracy: 12291/18800 (65%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 73988/112800 (66%)
+
+Epoch5: Test accuracy: 12184/18800 (65%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 74054/112800 (66%)
+
+Epoch6: Test accuracy: 12280/18800 (65%)
+Model's state_dict for Activation Function: relu, LR Scheduler: ExponentialLR, Optimizer: ASGD, BN: False, Regularization: L2, Dropout: False:
+45
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 78758/112800 (70%)
+
+Epoch1: Test accuracy: 12969/18800 (69%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 84301/112800 (75%)
+
+Epoch2: Test accuracy: 13854/18800 (74%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 85002/112800 (75%)
+
+Epoch3: Test accuracy: 13952/18800 (74%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 85097/112800 (75%)
+
+Epoch4: Test accuracy: 13986/18800 (74%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 85104/112800 (75%)
+
+Epoch5: Test accuracy: 13984/18800 (74%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 85113/112800 (75%)
+
+Epoch6: Test accuracy: 13984/18800 (74%)
+Model's state_dict for Activation Function: relu, LR Scheduler: ExponentialLR, Optimizer: ASGD, BN: False, Regularization: No, Dropout: True:
+46
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 69337/112800 (61%)
+
+Epoch1: Test accuracy: 11535/18800 (61%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 73637/112800 (65%)
+
+Epoch2: Test accuracy: 12137/18800 (65%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 73858/112800 (65%)
+
+Epoch3: Test accuracy: 12321/18800 (66%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 74105/112800 (66%)
+
+Epoch4: Test accuracy: 12168/18800 (65%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 74288/112800 (66%)
+
+Epoch5: Test accuracy: 12256/18800 (65%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 74041/112800 (66%)
+
+Epoch6: Test accuracy: 12336/18800 (66%)
+Model's state_dict for Activation Function: relu, LR Scheduler: ExponentialLR, Optimizer: ASGD, BN: False, Regularization: No, Dropout: False:
+47
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 77457/112800 (69%)
+
+Epoch1: Test accuracy: 12700/18800 (68%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 84112/112800 (75%)
+
+Epoch2: Test accuracy: 13866/18800 (74%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 84965/112800 (75%)
+
+Epoch3: Test accuracy: 14015/18800 (75%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 85237/112800 (76%)
+
+Epoch4: Test accuracy: 14023/18800 (75%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 85250/112800 (76%)
+
+Epoch5: Test accuracy: 14029/18800 (75%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 85250/112800 (76%)
+
+Epoch6: Test accuracy: 14031/18800 (75%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: StepLR, Optimizer: SGD, BN: True, Regularization: L2, Dropout: True:
+48
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 73632/112800 (65%)
+
+Epoch1: Test accuracy: 12141/18800 (65%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 79249/112800 (70%)
+
+Epoch2: Test accuracy: 13144/18800 (70%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 82184/112800 (73%)
+
+Epoch3: Test accuracy: 13523/18800 (72%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 84253/112800 (75%)
+
+Epoch4: Test accuracy: 13901/18800 (74%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 84879/112800 (75%)
+
+Epoch5: Test accuracy: 13905/18800 (74%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 86490/112800 (77%)
+
+Epoch6: Test accuracy: 14120/18800 (75%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: StepLR, Optimizer: SGD, BN: True, Regularization: L2, Dropout: False:
+49
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 90498/112800 (80%)
+
+Epoch1: Test accuracy: 14782/18800 (79%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 95531/112800 (85%)
+
+Epoch2: Test accuracy: 15465/18800 (82%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 97480/112800 (86%)
+
+Epoch3: Test accuracy: 15621/18800 (83%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 98335/112800 (87%)
+
+Epoch4: Test accuracy: 15597/18800 (83%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 99260/112800 (88%)
+
+Epoch5: Test accuracy: 15669/18800 (83%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 101923/112800 (90%)
+
+Epoch6: Test accuracy: 15988/18800 (85%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: StepLR, Optimizer: SGD, BN: True, Regularization: No, Dropout: True:
+50
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 73637/112800 (65%)
+
+Epoch1: Test accuracy: 12170/18800 (65%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 79518/112800 (70%)
+
+Epoch2: Test accuracy: 13185/18800 (70%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 82351/112800 (73%)
+
+Epoch3: Test accuracy: 13480/18800 (72%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 84013/112800 (74%)
+
+Epoch4: Test accuracy: 13700/18800 (73%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 85333/112800 (76%)
+
+Epoch5: Test accuracy: 14115/18800 (75%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 86343/112800 (77%)
+
+Epoch6: Test accuracy: 14127/18800 (75%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: StepLR, Optimizer: SGD, BN: True, Regularization: No, Dropout: False:
+51
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 90370/112800 (80%)
+
+Epoch1: Test accuracy: 14734/18800 (78%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 95040/112800 (84%)
+
+Epoch2: Test accuracy: 15321/18800 (81%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 96605/112800 (86%)
+
+Epoch3: Test accuracy: 15424/18800 (82%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 97951/112800 (87%)
+
+Epoch4: Test accuracy: 15559/18800 (83%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 99589/112800 (88%)
+
+Epoch5: Test accuracy: 15743/18800 (84%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 101737/112800 (90%)
+
+Epoch6: Test accuracy: 15988/18800 (85%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: StepLR, Optimizer: SGD, BN: False, Regularization: L2, Dropout: True:
+52
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 69885/112800 (62%)
+
+Epoch1: Test accuracy: 11523/18800 (61%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 77396/112800 (69%)
+
+Epoch2: Test accuracy: 12782/18800 (68%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 81323/112800 (72%)
+
+Epoch3: Test accuracy: 13386/18800 (71%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 83974/112800 (74%)
+
+Epoch4: Test accuracy: 13754/18800 (73%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 85537/112800 (76%)
+
+Epoch5: Test accuracy: 14002/18800 (74%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 86663/112800 (77%)
+
+Epoch6: Test accuracy: 14253/18800 (76%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: StepLR, Optimizer: SGD, BN: False, Regularization: L2, Dropout: False:
+53
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 78716/112800 (70%)
+
+Epoch1: Test accuracy: 12997/18800 (69%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 85688/112800 (76%)
+
+Epoch2: Test accuracy: 14080/18800 (75%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 90414/112800 (80%)
+
+Epoch3: Test accuracy: 14782/18800 (79%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 93643/112800 (83%)
+
+Epoch4: Test accuracy: 15250/18800 (81%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 94477/112800 (84%)
+
+Epoch5: Test accuracy: 15341/18800 (82%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 96878/112800 (86%)
+
+Epoch6: Test accuracy: 15652/18800 (83%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: StepLR, Optimizer: SGD, BN: False, Regularization: No, Dropout: True:
+54
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 69749/112800 (62%)
+
+Epoch1: Test accuracy: 11506/18800 (61%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 77422/112800 (69%)
+
+Epoch2: Test accuracy: 12807/18800 (68%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 81725/112800 (72%)
+
+Epoch3: Test accuracy: 13469/18800 (72%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 83880/112800 (74%)
+
+Epoch4: Test accuracy: 13799/18800 (73%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 85859/112800 (76%)
+
+Epoch5: Test accuracy: 14124/18800 (75%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 86772/112800 (77%)
+
+Epoch6: Test accuracy: 14243/18800 (76%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: StepLR, Optimizer: SGD, BN: False, Regularization: No, Dropout: False:
+55
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 78076/112800 (69%)
+
+Epoch1: Test accuracy: 12854/18800 (68%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 87076/112800 (77%)
+
+Epoch2: Test accuracy: 14291/18800 (76%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 90540/112800 (80%)
+
+Epoch3: Test accuracy: 14797/18800 (79%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 91523/112800 (81%)
+
+Epoch4: Test accuracy: 14924/18800 (79%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 94786/112800 (84%)
+
+Epoch5: Test accuracy: 15378/18800 (82%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 97009/112800 (86%)
+
+Epoch6: Test accuracy: 15715/18800 (84%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: StepLR, Optimizer: Adam, BN: True, Regularization: L2, Dropout: True:
+56
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 64625/112800 (57%)
+
+Epoch1: Test accuracy: 10615/18800 (56%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 64897/112800 (58%)
+
+Epoch2: Test accuracy: 10694/18800 (57%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 64776/112800 (57%)
+
+Epoch3: Test accuracy: 10581/18800 (56%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 64146/112800 (57%)
+
+Epoch4: Test accuracy: 10646/18800 (57%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 64271/112800 (57%)
+
+Epoch5: Test accuracy: 10624/18800 (57%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 79390/112800 (70%)
+
+Epoch6: Test accuracy: 12957/18800 (69%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: StepLR, Optimizer: Adam, BN: True, Regularization: L2, Dropout: False:
+57
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 84852/112800 (75%)
+
+Epoch1: Test accuracy: 13936/18800 (74%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 87572/112800 (78%)
+
+Epoch2: Test accuracy: 14239/18800 (76%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 88747/112800 (79%)
+
+Epoch3: Test accuracy: 14511/18800 (77%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 88624/112800 (79%)
+
+Epoch4: Test accuracy: 14519/18800 (77%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 89267/112800 (79%)
+
+Epoch5: Test accuracy: 14673/18800 (78%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 96499/112800 (86%)
+
+Epoch6: Test accuracy: 15644/18800 (83%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: StepLR, Optimizer: Adam, BN: True, Regularization: No, Dropout: True:
+58
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 68030/112800 (60%)
+
+Epoch1: Test accuracy: 11170/18800 (59%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 72384/112800 (64%)
+
+Epoch2: Test accuracy: 11904/18800 (63%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 73802/112800 (65%)
+
+Epoch3: Test accuracy: 12080/18800 (64%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 75134/112800 (67%)
+
+Epoch4: Test accuracy: 12299/18800 (65%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 76309/112800 (68%)
+
+Epoch5: Test accuracy: 12581/18800 (67%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 84433/112800 (75%)
+
+Epoch6: Test accuracy: 13810/18800 (73%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: StepLR, Optimizer: Adam, BN: True, Regularization: No, Dropout: False:
+59
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 89598/112800 (79%)
+
+Epoch1: Test accuracy: 14622/18800 (78%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 91661/112800 (81%)
+
+Epoch2: Test accuracy: 14950/18800 (80%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 92650/112800 (82%)
+
+Epoch3: Test accuracy: 15019/18800 (80%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 94257/112800 (84%)
+
+Epoch4: Test accuracy: 15149/18800 (81%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 94896/112800 (84%)
+
+Epoch5: Test accuracy: 15240/18800 (81%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 100400/112800 (89%)
+
+Epoch6: Test accuracy: 15982/18800 (85%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: StepLR, Optimizer: Adam, BN: False, Regularization: L2, Dropout: True:
+60
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 3713/112800 (3%)
+
+Epoch1: Test accuracy: 606/18800 (3%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 5111/112800 (5%)
+
+Epoch2: Test accuracy: 895/18800 (5%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 5661/112800 (5%)
+
+Epoch3: Test accuracy: 977/18800 (5%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 5749/112800 (5%)
+
+Epoch4: Test accuracy: 1022/18800 (5%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 5998/112800 (5%)
+
+Epoch5: Test accuracy: 993/18800 (5%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 12842/112800 (11%)
+
+Epoch6: Test accuracy: 2166/18800 (12%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: StepLR, Optimizer: Adam, BN: False, Regularization: L2, Dropout: False:
+61
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 31600/112800 (28%)
+
+Epoch1: Test accuracy: 5228/18800 (28%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 48102/112800 (43%)
+
+Epoch2: Test accuracy: 8003/18800 (43%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 52292/112800 (46%)
+
+Epoch3: Test accuracy: 8599/18800 (46%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 17815/112800 (16%)
+
+Epoch4: Test accuracy: 2952/18800 (16%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 48772/112800 (43%)
+
+Epoch5: Test accuracy: 8007/18800 (43%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 70729/112800 (63%)
+
+Epoch6: Test accuracy: 11659/18800 (62%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: StepLR, Optimizer: Adam, BN: False, Regularization: No, Dropout: True:
+62
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 3950/112800 (4%)
+
+Epoch1: Test accuracy: 676/18800 (4%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 5090/112800 (5%)
+
+Epoch2: Test accuracy: 818/18800 (4%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 6374/112800 (6%)
+
+Epoch3: Test accuracy: 1074/18800 (6%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 6558/112800 (6%)
+
+Epoch4: Test accuracy: 1137/18800 (6%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 6213/112800 (6%)
+
+Epoch5: Test accuracy: 1001/18800 (5%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 13067/112800 (12%)
+
+Epoch6: Test accuracy: 2168/18800 (12%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: StepLR, Optimizer: Adam, BN: False, Regularization: No, Dropout: False:
+63
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 36796/112800 (33%)
+
+Epoch1: Test accuracy: 6120/18800 (33%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 43729/112800 (39%)
+
+Epoch2: Test accuracy: 7220/18800 (38%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 47522/112800 (42%)
+
+Epoch3: Test accuracy: 7851/18800 (42%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 36536/112800 (32%)
+
+Epoch4: Test accuracy: 6029/18800 (32%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 53686/112800 (48%)
+
+Epoch5: Test accuracy: 8789/18800 (47%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 70647/112800 (63%)
+
+Epoch6: Test accuracy: 11667/18800 (62%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: StepLR, Optimizer: ASGD, BN: True, Regularization: L2, Dropout: True:
+64
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 73989/112800 (66%)
+
+Epoch1: Test accuracy: 12169/18800 (65%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 79500/112800 (70%)
+
+Epoch2: Test accuracy: 13022/18800 (69%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 82446/112800 (73%)
+
+Epoch3: Test accuracy: 13527/18800 (72%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 84054/112800 (75%)
+
+Epoch4: Test accuracy: 13838/18800 (74%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 85334/112800 (76%)
+
+Epoch5: Test accuracy: 13963/18800 (74%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 86353/112800 (77%)
+
+Epoch6: Test accuracy: 14175/18800 (75%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: StepLR, Optimizer: ASGD, BN: True, Regularization: L2, Dropout: False:
+65
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 90411/112800 (80%)
+
+Epoch1: Test accuracy: 14748/18800 (78%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 94456/112800 (84%)
+
+Epoch2: Test accuracy: 15194/18800 (81%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 97664/112800 (87%)
+
+Epoch3: Test accuracy: 15597/18800 (83%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 98539/112800 (87%)
+
+Epoch4: Test accuracy: 15651/18800 (83%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 99769/112800 (88%)
+
+Epoch5: Test accuracy: 15717/18800 (84%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 101725/112800 (90%)
+
+Epoch6: Test accuracy: 15975/18800 (85%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: StepLR, Optimizer: ASGD, BN: True, Regularization: No, Dropout: True:
+66
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 73911/112800 (66%)
+
+Epoch1: Test accuracy: 12158/18800 (65%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 79874/112800 (71%)
+
+Epoch2: Test accuracy: 13049/18800 (69%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 82233/112800 (73%)
+
+Epoch3: Test accuracy: 13501/18800 (72%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 83992/112800 (74%)
+
+Epoch4: Test accuracy: 13822/18800 (74%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 85028/112800 (75%)
+
+Epoch5: Test accuracy: 13973/18800 (74%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 86439/112800 (77%)
+
+Epoch6: Test accuracy: 14134/18800 (75%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: StepLR, Optimizer: ASGD, BN: True, Regularization: No, Dropout: False:
+67
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 91359/112800 (81%)
+
+Epoch1: Test accuracy: 14906/18800 (79%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 95530/112800 (85%)
+
+Epoch2: Test accuracy: 15398/18800 (82%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 97094/112800 (86%)
+
+Epoch3: Test accuracy: 15519/18800 (83%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 98077/112800 (87%)
+
+Epoch4: Test accuracy: 15580/18800 (83%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 99071/112800 (88%)
+
+Epoch5: Test accuracy: 15634/18800 (83%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 101737/112800 (90%)
+
+Epoch6: Test accuracy: 15959/18800 (85%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: StepLR, Optimizer: ASGD, BN: False, Regularization: L2, Dropout: True:
+68
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 69892/112800 (62%)
+
+Epoch1: Test accuracy: 11541/18800 (61%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 77528/112800 (69%)
+
+Epoch2: Test accuracy: 12864/18800 (68%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 81108/112800 (72%)
+
+Epoch3: Test accuracy: 13369/18800 (71%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 84026/112800 (74%)
+
+Epoch4: Test accuracy: 13780/18800 (73%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 85533/112800 (76%)
+
+Epoch5: Test accuracy: 14026/18800 (75%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 86592/112800 (77%)
+
+Epoch6: Test accuracy: 14259/18800 (76%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: StepLR, Optimizer: ASGD, BN: False, Regularization: L2, Dropout: False:
+69
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 77341/112800 (69%)
+
+Epoch1: Test accuracy: 12766/18800 (68%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 87260/112800 (77%)
+
+Epoch2: Test accuracy: 14323/18800 (76%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 90488/112800 (80%)
+
+Epoch3: Test accuracy: 14820/18800 (79%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 93079/112800 (83%)
+
+Epoch4: Test accuracy: 15102/18800 (80%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 94200/112800 (84%)
+
+Epoch5: Test accuracy: 15321/18800 (81%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 96866/112800 (86%)
+
+Epoch6: Test accuracy: 15688/18800 (83%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: StepLR, Optimizer: ASGD, BN: False, Regularization: No, Dropout: True:
+70
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 69830/112800 (62%)
+
+Epoch1: Test accuracy: 11585/18800 (62%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 77425/112800 (69%)
+
+Epoch2: Test accuracy: 12788/18800 (68%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 81796/112800 (73%)
+
+Epoch3: Test accuracy: 13505/18800 (72%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 83765/112800 (74%)
+
+Epoch4: Test accuracy: 13784/18800 (73%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 85613/112800 (76%)
+
+Epoch5: Test accuracy: 14055/18800 (75%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 86599/112800 (77%)
+
+Epoch6: Test accuracy: 14186/18800 (75%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: StepLR, Optimizer: ASGD, BN: False, Regularization: No, Dropout: False:
+71
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 78187/112800 (69%)
+
+Epoch1: Test accuracy: 12900/18800 (69%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 86514/112800 (77%)
+
+Epoch2: Test accuracy: 14214/18800 (76%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 91462/112800 (81%)
+
+Epoch3: Test accuracy: 14940/18800 (79%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 89378/112800 (79%)
+
+Epoch4: Test accuracy: 14549/18800 (77%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 93014/112800 (82%)
+
+Epoch5: Test accuracy: 15089/18800 (80%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 96777/112800 (86%)
+
+Epoch6: Test accuracy: 15626/18800 (83%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: ExponentialLR, Optimizer: SGD, BN: True, Regularization: L2, Dropout: True:
+72
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 73854/112800 (65%)
+
+Epoch1: Test accuracy: 12193/18800 (65%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 77086/112800 (68%)
+
+Epoch2: Test accuracy: 12662/18800 (67%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 77725/112800 (69%)
+
+Epoch3: Test accuracy: 12714/18800 (68%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 77531/112800 (69%)
+
+Epoch4: Test accuracy: 12762/18800 (68%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 77746/112800 (69%)
+
+Epoch5: Test accuracy: 12832/18800 (68%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 77579/112800 (69%)
+
+Epoch6: Test accuracy: 12812/18800 (68%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: ExponentialLR, Optimizer: SGD, BN: True, Regularization: L2, Dropout: False:
+73
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 90930/112800 (81%)
+
+Epoch1: Test accuracy: 14826/18800 (79%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 94224/112800 (84%)
+
+Epoch2: Test accuracy: 15270/18800 (81%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 94800/112800 (84%)
+
+Epoch3: Test accuracy: 15330/18800 (82%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 94796/112800 (84%)
+
+Epoch4: Test accuracy: 15342/18800 (82%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 94813/112800 (84%)
+
+Epoch5: Test accuracy: 15346/18800 (82%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 94828/112800 (84%)
+
+Epoch6: Test accuracy: 15345/18800 (82%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: ExponentialLR, Optimizer: SGD, BN: True, Regularization: No, Dropout: True:
+74
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 73924/112800 (66%)
+
+Epoch1: Test accuracy: 12135/18800 (65%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 76514/112800 (68%)
+
+Epoch2: Test accuracy: 12502/18800 (66%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 77409/112800 (69%)
+
+Epoch3: Test accuracy: 12775/18800 (68%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 77260/112800 (68%)
+
+Epoch4: Test accuracy: 12762/18800 (68%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 77284/112800 (69%)
+
+Epoch5: Test accuracy: 12674/18800 (67%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 77341/112800 (69%)
+
+Epoch6: Test accuracy: 12744/18800 (68%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: ExponentialLR, Optimizer: SGD, BN: True, Regularization: No, Dropout: False:
+75
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 91615/112800 (81%)
+
+Epoch1: Test accuracy: 14932/18800 (79%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 94186/112800 (83%)
+
+Epoch2: Test accuracy: 15239/18800 (81%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 94719/112800 (84%)
+
+Epoch3: Test accuracy: 15348/18800 (82%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 94845/112800 (84%)
+
+Epoch4: Test accuracy: 15350/18800 (82%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 94827/112800 (84%)
+
+Epoch5: Test accuracy: 15354/18800 (82%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 94818/112800 (84%)
+
+Epoch6: Test accuracy: 15353/18800 (82%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: ExponentialLR, Optimizer: SGD, BN: False, Regularization: L2, Dropout: True:
+76
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 69651/112800 (62%)
+
+Epoch1: Test accuracy: 11494/18800 (61%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 73106/112800 (65%)
+
+Epoch2: Test accuracy: 12030/18800 (64%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 73946/112800 (66%)
+
+Epoch3: Test accuracy: 12211/18800 (65%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 73930/112800 (66%)
+
+Epoch4: Test accuracy: 12204/18800 (65%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 73892/112800 (66%)
+
+Epoch5: Test accuracy: 12219/18800 (65%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 74028/112800 (66%)
+
+Epoch6: Test accuracy: 12203/18800 (65%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: ExponentialLR, Optimizer: SGD, BN: False, Regularization: L2, Dropout: False:
+77
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 77643/112800 (69%)
+
+Epoch1: Test accuracy: 12832/18800 (68%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 84126/112800 (75%)
+
+Epoch2: Test accuracy: 13838/18800 (74%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 84872/112800 (75%)
+
+Epoch3: Test accuracy: 14001/18800 (74%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 85020/112800 (75%)
+
+Epoch4: Test accuracy: 13976/18800 (74%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 85024/112800 (75%)
+
+Epoch5: Test accuracy: 13982/18800 (74%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 85036/112800 (75%)
+
+Epoch6: Test accuracy: 13982/18800 (74%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: ExponentialLR, Optimizer: SGD, BN: False, Regularization: No, Dropout: True:
+78
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 69484/112800 (62%)
+
+Epoch1: Test accuracy: 11429/18800 (61%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 73425/112800 (65%)
+
+Epoch2: Test accuracy: 12151/18800 (65%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 73949/112800 (66%)
+
+Epoch3: Test accuracy: 12233/18800 (65%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 74149/112800 (66%)
+
+Epoch4: Test accuracy: 12196/18800 (65%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 74087/112800 (66%)
+
+Epoch5: Test accuracy: 12241/18800 (65%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 74192/112800 (66%)
+
+Epoch6: Test accuracy: 12250/18800 (65%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: ExponentialLR, Optimizer: SGD, BN: False, Regularization: No, Dropout: False:
+79
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 79262/112800 (70%)
+
+Epoch1: Test accuracy: 12996/18800 (69%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 83894/112800 (74%)
+
+Epoch2: Test accuracy: 13788/18800 (73%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 84995/112800 (75%)
+
+Epoch3: Test accuracy: 14008/18800 (75%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 85153/112800 (75%)
+
+Epoch4: Test accuracy: 14004/18800 (74%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 85184/112800 (76%)
+
+Epoch5: Test accuracy: 14009/18800 (75%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 85187/112800 (76%)
+
+Epoch6: Test accuracy: 14013/18800 (75%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: ExponentialLR, Optimizer: Adam, BN: True, Regularization: L2, Dropout: True:
+80
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 66086/112800 (59%)
+
+Epoch1: Test accuracy: 10859/18800 (58%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 80193/112800 (71%)
+
+Epoch2: Test accuracy: 13157/18800 (70%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 84246/112800 (75%)
+
+Epoch3: Test accuracy: 13819/18800 (74%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 84789/112800 (75%)
+
+Epoch4: Test accuracy: 13966/18800 (74%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 84940/112800 (75%)
+
+Epoch5: Test accuracy: 14028/18800 (75%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 84864/112800 (75%)
+
+Epoch6: Test accuracy: 13959/18800 (74%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: ExponentialLR, Optimizer: Adam, BN: True, Regularization: L2, Dropout: False:
+81
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 85297/112800 (76%)
+
+Epoch1: Test accuracy: 13889/18800 (74%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 95547/112800 (85%)
+
+Epoch2: Test accuracy: 15503/18800 (82%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 99287/112800 (88%)
+
+Epoch3: Test accuracy: 15879/18800 (84%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 99888/112800 (89%)
+
+Epoch4: Test accuracy: 15976/18800 (85%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 99997/112800 (89%)
+
+Epoch5: Test accuracy: 15989/18800 (85%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 100027/112800 (89%)
+
+Epoch6: Test accuracy: 15995/18800 (85%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: ExponentialLR, Optimizer: Adam, BN: True, Regularization: No, Dropout: True:
+82
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 67580/112800 (60%)
+
+Epoch1: Test accuracy: 11055/18800 (59%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 80939/112800 (72%)
+
+Epoch2: Test accuracy: 13281/18800 (71%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 83498/112800 (74%)
+
+Epoch3: Test accuracy: 13784/18800 (73%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 84243/112800 (75%)
+
+Epoch4: Test accuracy: 13804/18800 (73%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 83909/112800 (74%)
+
+Epoch5: Test accuracy: 13781/18800 (73%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 83996/112800 (74%)
+
+Epoch6: Test accuracy: 13877/18800 (74%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: ExponentialLR, Optimizer: Adam, BN: True, Regularization: No, Dropout: False:
+83
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 88959/112800 (79%)
+
+Epoch1: Test accuracy: 14533/18800 (77%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 97237/112800 (86%)
+
+Epoch2: Test accuracy: 15673/18800 (83%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 99196/112800 (88%)
+
+Epoch3: Test accuracy: 15890/18800 (85%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 99561/112800 (88%)
+
+Epoch4: Test accuracy: 15932/18800 (85%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 99556/112800 (88%)
+
+Epoch5: Test accuracy: 15937/18800 (85%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 99632/112800 (88%)
+
+Epoch6: Test accuracy: 15946/18800 (85%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: ExponentialLR, Optimizer: Adam, BN: False, Regularization: L2, Dropout: True:
+84
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 5170/112800 (5%)
+
+Epoch1: Test accuracy: 875/18800 (5%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 11095/112800 (10%)
+
+Epoch2: Test accuracy: 1864/18800 (10%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 13480/112800 (12%)
+
+Epoch3: Test accuracy: 2252/18800 (12%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 15079/112800 (13%)
+
+Epoch4: Test accuracy: 2421/18800 (13%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 15301/112800 (14%)
+
+Epoch5: Test accuracy: 2579/18800 (14%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 15400/112800 (14%)
+
+Epoch6: Test accuracy: 2532/18800 (13%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: ExponentialLR, Optimizer: Adam, BN: False, Regularization: L2, Dropout: False:
+85
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 37924/112800 (34%)
+
+Epoch1: Test accuracy: 6224/18800 (33%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 63140/112800 (56%)
+
+Epoch2: Test accuracy: 10374/18800 (55%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 69088/112800 (61%)
+
+Epoch3: Test accuracy: 11381/18800 (61%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 71013/112800 (63%)
+
+Epoch4: Test accuracy: 11728/18800 (62%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 71702/112800 (64%)
+
+Epoch5: Test accuracy: 11815/18800 (63%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 71888/112800 (64%)
+
+Epoch6: Test accuracy: 11858/18800 (63%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: ExponentialLR, Optimizer: Adam, BN: False, Regularization: No, Dropout: True:
+86
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 3887/112800 (3%)
+
+Epoch1: Test accuracy: 668/18800 (4%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 10916/112800 (10%)
+
+Epoch2: Test accuracy: 1732/18800 (9%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 13971/112800 (12%)
+
+Epoch3: Test accuracy: 2308/18800 (12%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 14898/112800 (13%)
+
+Epoch4: Test accuracy: 2489/18800 (13%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 15225/112800 (13%)
+
+Epoch5: Test accuracy: 2541/18800 (14%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 15315/112800 (14%)
+
+Epoch6: Test accuracy: 2537/18800 (13%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: ExponentialLR, Optimizer: Adam, BN: False, Regularization: No, Dropout: False:
+87
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 25310/112800 (22%)
+
+Epoch1: Test accuracy: 4201/18800 (22%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 61440/112800 (54%)
+
+Epoch2: Test accuracy: 10246/18800 (54%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 69909/112800 (62%)
+
+Epoch3: Test accuracy: 11617/18800 (62%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 73371/112800 (65%)
+
+Epoch4: Test accuracy: 12105/18800 (64%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 74367/112800 (66%)
+
+Epoch5: Test accuracy: 12251/18800 (65%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 74657/112800 (66%)
+
+Epoch6: Test accuracy: 12317/18800 (66%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: ExponentialLR, Optimizer: ASGD, BN: True, Regularization: L2, Dropout: True:
+88
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 74270/112800 (66%)
+
+Epoch1: Test accuracy: 12325/18800 (66%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 77196/112800 (68%)
+
+Epoch2: Test accuracy: 12694/18800 (68%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 77472/112800 (69%)
+
+Epoch3: Test accuracy: 12781/18800 (68%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 77479/112800 (69%)
+
+Epoch4: Test accuracy: 12913/18800 (69%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 77714/112800 (69%)
+
+Epoch5: Test accuracy: 12791/18800 (68%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 77489/112800 (69%)
+
+Epoch6: Test accuracy: 12768/18800 (68%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: ExponentialLR, Optimizer: ASGD, BN: True, Regularization: L2, Dropout: False:
+89
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 90289/112800 (80%)
+
+Epoch1: Test accuracy: 14698/18800 (78%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 94396/112800 (84%)
+
+Epoch2: Test accuracy: 15256/18800 (81%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 94911/112800 (84%)
+
+Epoch3: Test accuracy: 15353/18800 (82%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 94886/112800 (84%)
+
+Epoch4: Test accuracy: 15355/18800 (82%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 94941/112800 (84%)
+
+Epoch5: Test accuracy: 15355/18800 (82%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 94958/112800 (84%)
+
+Epoch6: Test accuracy: 15356/18800 (82%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: ExponentialLR, Optimizer: ASGD, BN: True, Regularization: No, Dropout: True:
+90
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 74215/112800 (66%)
+
+Epoch1: Test accuracy: 12279/18800 (65%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 77051/112800 (68%)
+
+Epoch2: Test accuracy: 12702/18800 (68%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 77434/112800 (69%)
+
+Epoch3: Test accuracy: 12793/18800 (68%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 77597/112800 (69%)
+
+Epoch4: Test accuracy: 12783/18800 (68%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 77416/112800 (69%)
+
+Epoch5: Test accuracy: 12798/18800 (68%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 77769/112800 (69%)
+
+Epoch6: Test accuracy: 12779/18800 (68%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: ExponentialLR, Optimizer: ASGD, BN: True, Regularization: No, Dropout: False:
+91
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 90971/112800 (81%)
+
+Epoch1: Test accuracy: 14834/18800 (79%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 94416/112800 (84%)
+
+Epoch2: Test accuracy: 15288/18800 (81%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 94743/112800 (84%)
+
+Epoch3: Test accuracy: 15331/18800 (82%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 94805/112800 (84%)
+
+Epoch4: Test accuracy: 15351/18800 (82%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 94893/112800 (84%)
+
+Epoch5: Test accuracy: 15355/18800 (82%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 94821/112800 (84%)
+
+Epoch6: Test accuracy: 15355/18800 (82%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: ExponentialLR, Optimizer: ASGD, BN: False, Regularization: L2, Dropout: True:
+92
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 68891/112800 (61%)
+
+Epoch1: Test accuracy: 11486/18800 (61%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 73341/112800 (65%)
+
+Epoch2: Test accuracy: 12090/18800 (64%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 74182/112800 (66%)
+
+Epoch3: Test accuracy: 12216/18800 (65%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 74097/112800 (66%)
+
+Epoch4: Test accuracy: 12242/18800 (65%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 74020/112800 (66%)
+
+Epoch5: Test accuracy: 12216/18800 (65%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 74269/112800 (66%)
+
+Epoch6: Test accuracy: 12204/18800 (65%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: ExponentialLR, Optimizer: ASGD, BN: False, Regularization: L2, Dropout: False:
+93
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 78054/112800 (69%)
+
+Epoch1: Test accuracy: 12771/18800 (68%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 83989/112800 (74%)
+
+Epoch2: Test accuracy: 13793/18800 (73%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 84958/112800 (75%)
+
+Epoch3: Test accuracy: 13996/18800 (74%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 85115/112800 (75%)
+
+Epoch4: Test accuracy: 13988/18800 (74%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 85130/112800 (75%)
+
+Epoch5: Test accuracy: 13992/18800 (74%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 85136/112800 (75%)
+
+Epoch6: Test accuracy: 13990/18800 (74%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: ExponentialLR, Optimizer: ASGD, BN: False, Regularization: No, Dropout: True:
+94
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 69826/112800 (62%)
+
+Epoch1: Test accuracy: 11473/18800 (61%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 73457/112800 (65%)
+
+Epoch2: Test accuracy: 12151/18800 (65%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 74188/112800 (66%)
+
+Epoch3: Test accuracy: 12230/18800 (65%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 74340/112800 (66%)
+
+Epoch4: Test accuracy: 12225/18800 (65%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 74336/112800 (66%)
+
+Epoch5: Test accuracy: 12246/18800 (65%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 74249/112800 (66%)
+
+Epoch6: Test accuracy: 12222/18800 (65%)
+Model's state_dict for Activation Function: leaky_relu, LR Scheduler: ExponentialLR, Optimizer: ASGD, BN: False, Regularization: No, Dropout: False:
+95
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 78545/112800 (70%)
+
+Epoch1: Test accuracy: 12966/18800 (69%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 84085/112800 (75%)
+
+Epoch2: Test accuracy: 13853/18800 (74%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 84972/112800 (75%)
+
+Epoch3: Test accuracy: 13982/18800 (74%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 85059/112800 (75%)
+
+Epoch4: Test accuracy: 14010/18800 (75%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 85090/112800 (75%)
+
+Epoch5: Test accuracy: 14001/18800 (74%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 85093/112800 (75%)
+
+Epoch6: Test accuracy: 14004/18800 (74%)
+Model's state_dict for Activation Function: elu, LR Scheduler: StepLR, Optimizer: SGD, BN: True, Regularization: L2, Dropout: True:
+96
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 72574/112800 (64%)
+
+Epoch1: Test accuracy: 12007/18800 (64%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 76343/112800 (68%)
+
+Epoch2: Test accuracy: 12553/18800 (67%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 79058/112800 (70%)
+
+Epoch3: Test accuracy: 13008/18800 (69%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 80428/112800 (71%)
+
+Epoch4: Test accuracy: 13163/18800 (70%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 81320/112800 (72%)
+
+Epoch5: Test accuracy: 13328/18800 (71%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 82940/112800 (74%)
+
+Epoch6: Test accuracy: 13607/18800 (72%)
+Model's state_dict for Activation Function: elu, LR Scheduler: StepLR, Optimizer: SGD, BN: True, Regularization: L2, Dropout: False:
+97
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 85166/112800 (76%)
+
+Epoch1: Test accuracy: 13906/18800 (74%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 90417/112800 (80%)
+
+Epoch2: Test accuracy: 14694/18800 (78%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 92430/112800 (82%)
+
+Epoch3: Test accuracy: 15000/18800 (80%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 93573/112800 (83%)
+
+Epoch4: Test accuracy: 15157/18800 (81%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 92668/112800 (82%)
+
+Epoch5: Test accuracy: 14845/18800 (79%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 98479/112800 (87%)
+
+Epoch6: Test accuracy: 15759/18800 (84%)
+Model's state_dict for Activation Function: elu, LR Scheduler: StepLR, Optimizer: SGD, BN: True, Regularization: No, Dropout: True:
+98
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 72697/112800 (64%)
+
+Epoch1: Test accuracy: 12086/18800 (64%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 76801/112800 (68%)
+
+Epoch2: Test accuracy: 12658/18800 (67%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 78901/112800 (70%)
+
+Epoch3: Test accuracy: 12935/18800 (69%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 80399/112800 (71%)
+
+Epoch4: Test accuracy: 13216/18800 (70%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 81571/112800 (72%)
+
+Epoch5: Test accuracy: 13447/18800 (72%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 82801/112800 (73%)
+
+Epoch6: Test accuracy: 13540/18800 (72%)
+Model's state_dict for Activation Function: elu, LR Scheduler: StepLR, Optimizer: SGD, BN: True, Regularization: No, Dropout: False:
+99
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 85751/112800 (76%)
+
+Epoch1: Test accuracy: 13999/18800 (74%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 89600/112800 (79%)
+
+Epoch2: Test accuracy: 14555/18800 (77%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 92322/112800 (82%)
+
+Epoch3: Test accuracy: 14997/18800 (80%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 90521/112800 (80%)
+
+Epoch4: Test accuracy: 14609/18800 (78%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 95400/112800 (85%)
+
+Epoch5: Test accuracy: 15274/18800 (81%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 98823/112800 (88%)
+
+Epoch6: Test accuracy: 15766/18800 (84%)
+Model's state_dict for Activation Function: elu, LR Scheduler: StepLR, Optimizer: SGD, BN: False, Regularization: L2, Dropout: True:
+100
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 71705/112800 (64%)
+
+Epoch1: Test accuracy: 11852/18800 (63%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 77398/112800 (69%)
+
+Epoch2: Test accuracy: 12846/18800 (68%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 80301/112800 (71%)
+
+Epoch3: Test accuracy: 13190/18800 (70%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 82533/112800 (73%)
+
+Epoch4: Test accuracy: 13604/18800 (72%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 83508/112800 (74%)
+
+Epoch5: Test accuracy: 13747/18800 (73%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 85547/112800 (76%)
+
+Epoch6: Test accuracy: 13970/18800 (74%)
+Model's state_dict for Activation Function: elu, LR Scheduler: StepLR, Optimizer: SGD, BN: False, Regularization: L2, Dropout: False:
+101
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 76342/112800 (68%)
+
+Epoch1: Test accuracy: 12647/18800 (67%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 86417/112800 (77%)
+
+Epoch2: Test accuracy: 14243/18800 (76%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 88759/112800 (79%)
+
+Epoch3: Test accuracy: 14576/18800 (78%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 90793/112800 (80%)
+
+Epoch4: Test accuracy: 14833/18800 (79%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 92642/112800 (82%)
+
+Epoch5: Test accuracy: 15018/18800 (80%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 95477/112800 (85%)
+
+Epoch6: Test accuracy: 15508/18800 (82%)
+Model's state_dict for Activation Function: elu, LR Scheduler: StepLR, Optimizer: SGD, BN: False, Regularization: No, Dropout: True:
+102
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 72250/112800 (64%)
+
+Epoch1: Test accuracy: 11918/18800 (63%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 77654/112800 (69%)
+
+Epoch2: Test accuracy: 12823/18800 (68%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 80248/112800 (71%)
+
+Epoch3: Test accuracy: 13154/18800 (70%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 82863/112800 (73%)
+
+Epoch4: Test accuracy: 13564/18800 (72%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 83862/112800 (74%)
+
+Epoch5: Test accuracy: 13696/18800 (73%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 85494/112800 (76%)
+
+Epoch6: Test accuracy: 14136/18800 (75%)
+Model's state_dict for Activation Function: elu, LR Scheduler: StepLR, Optimizer: SGD, BN: False, Regularization: No, Dropout: False:
+103
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 78372/112800 (69%)
+
+Epoch1: Test accuracy: 12946/18800 (69%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 86108/112800 (76%)
+
+Epoch2: Test accuracy: 14133/18800 (75%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 89224/112800 (79%)
+
+Epoch3: Test accuracy: 14610/18800 (78%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 91758/112800 (81%)
+
+Epoch4: Test accuracy: 14972/18800 (80%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 93330/112800 (83%)
+
+Epoch5: Test accuracy: 15173/18800 (81%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 95357/112800 (85%)
+
+Epoch6: Test accuracy: 15474/18800 (82%)
+Model's state_dict for Activation Function: elu, LR Scheduler: StepLR, Optimizer: Adam, BN: True, Regularization: L2, Dropout: True:
+104
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 63660/112800 (56%)
+
+Epoch1: Test accuracy: 10535/18800 (56%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 66802/112800 (59%)
+
+Epoch2: Test accuracy: 11000/18800 (59%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 67615/112800 (60%)
+
+Epoch3: Test accuracy: 11009/18800 (59%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 60549/112800 (54%)
+
+Epoch4: Test accuracy: 10018/18800 (53%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 67370/112800 (60%)
+
+Epoch5: Test accuracy: 11233/18800 (60%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 84222/112800 (75%)
+
+Epoch6: Test accuracy: 13814/18800 (73%)
+Model's state_dict for Activation Function: elu, LR Scheduler: StepLR, Optimizer: Adam, BN: True, Regularization: L2, Dropout: False:
+105
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 84253/112800 (75%)
+
+Epoch1: Test accuracy: 13805/18800 (73%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 85411/112800 (76%)
+
+Epoch2: Test accuracy: 13909/18800 (74%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 84113/112800 (75%)
+
+Epoch3: Test accuracy: 13752/18800 (73%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 87456/112800 (78%)
+
+Epoch4: Test accuracy: 14292/18800 (76%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 87662/112800 (78%)
+
+Epoch5: Test accuracy: 14324/18800 (76%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 96364/112800 (85%)
+
+Epoch6: Test accuracy: 15622/18800 (83%)
+Model's state_dict for Activation Function: elu, LR Scheduler: StepLR, Optimizer: Adam, BN: True, Regularization: No, Dropout: True:
+106
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 67173/112800 (60%)
+
+Epoch1: Test accuracy: 11071/18800 (59%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 72321/112800 (64%)
+
+Epoch2: Test accuracy: 12017/18800 (64%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 75113/112800 (67%)
+
+Epoch3: Test accuracy: 12390/18800 (66%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 73553/112800 (65%)
+
+Epoch4: Test accuracy: 12084/18800 (64%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 74670/112800 (66%)
+
+Epoch5: Test accuracy: 12235/18800 (65%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 87577/112800 (78%)
+
+Epoch6: Test accuracy: 14324/18800 (76%)
+Model's state_dict for Activation Function: elu, LR Scheduler: StepLR, Optimizer: Adam, BN: True, Regularization: No, Dropout: False:
+107
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 86669/112800 (77%)
+
+Epoch1: Test accuracy: 14143/18800 (75%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 89972/112800 (80%)
+
+Epoch2: Test accuracy: 14594/18800 (78%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 91356/112800 (81%)
+
+Epoch3: Test accuracy: 14757/18800 (78%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 92242/112800 (82%)
+
+Epoch4: Test accuracy: 14911/18800 (79%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 90954/112800 (81%)
+
+Epoch5: Test accuracy: 14590/18800 (78%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 100351/112800 (89%)
+
+Epoch6: Test accuracy: 15916/18800 (85%)
+Model's state_dict for Activation Function: elu, LR Scheduler: StepLR, Optimizer: Adam, BN: False, Regularization: L2, Dropout: True:
+108
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 2358/112800 (2%)
+
+Epoch1: Test accuracy: 405/18800 (2%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 2342/112800 (2%)
+
+Epoch2: Test accuracy: 397/18800 (2%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 2441/112800 (2%)
+
+Epoch3: Test accuracy: 387/18800 (2%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 2401/112800 (2%)
+
+Epoch4: Test accuracy: 408/18800 (2%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 2404/112800 (2%)
+
+Epoch5: Test accuracy: 391/18800 (2%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 2392/112800 (2%)
+
+Epoch6: Test accuracy: 381/18800 (2%)
+Model's state_dict for Activation Function: elu, LR Scheduler: StepLR, Optimizer: Adam, BN: False, Regularization: L2, Dropout: False:
+109
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 32682/112800 (29%)
+
+Epoch1: Test accuracy: 5465/18800 (29%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 31638/112800 (28%)
+
+Epoch2: Test accuracy: 5177/18800 (28%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 4174/112800 (4%)
+
+Epoch3: Test accuracy: 673/18800 (4%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 4936/112800 (4%)
+
+Epoch4: Test accuracy: 804/18800 (4%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 4517/112800 (4%)
+
+Epoch5: Test accuracy: 751/18800 (4%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 5633/112800 (5%)
+
+Epoch6: Test accuracy: 911/18800 (5%)
+Model's state_dict for Activation Function: elu, LR Scheduler: StepLR, Optimizer: Adam, BN: False, Regularization: No, Dropout: True:
+110
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 3233/112800 (3%)
+
+Epoch1: Test accuracy: 500/18800 (3%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 2470/112800 (2%)
+
+Epoch2: Test accuracy: 421/18800 (2%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 2427/112800 (2%)
+
+Epoch3: Test accuracy: 433/18800 (2%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 2421/112800 (2%)
+
+Epoch4: Test accuracy: 380/18800 (2%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 2447/112800 (2%)
+
+Epoch5: Test accuracy: 400/18800 (2%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 2394/112800 (2%)
+
+Epoch6: Test accuracy: 426/18800 (2%)
+Model's state_dict for Activation Function: elu, LR Scheduler: StepLR, Optimizer: Adam, BN: False, Regularization: No, Dropout: False:
+111
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 21891/112800 (19%)
+
+Epoch1: Test accuracy: 3611/18800 (19%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 22102/112800 (20%)
+
+Epoch2: Test accuracy: 3655/18800 (19%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 9838/112800 (9%)
+
+Epoch3: Test accuracy: 1628/18800 (9%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 8353/112800 (7%)
+
+Epoch4: Test accuracy: 1394/18800 (7%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 7843/112800 (7%)
+
+Epoch5: Test accuracy: 1298/18800 (7%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 7550/112800 (7%)
+
+Epoch6: Test accuracy: 1244/18800 (7%)
+Model's state_dict for Activation Function: elu, LR Scheduler: StepLR, Optimizer: ASGD, BN: True, Regularization: L2, Dropout: True:
+112
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 72602/112800 (64%)
+
+Epoch1: Test accuracy: 11992/18800 (64%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 76384/112800 (68%)
+
+Epoch2: Test accuracy: 12613/18800 (67%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 78748/112800 (70%)
+
+Epoch3: Test accuracy: 13012/18800 (69%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 80469/112800 (71%)
+
+Epoch4: Test accuracy: 13172/18800 (70%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 81547/112800 (72%)
+
+Epoch5: Test accuracy: 13416/18800 (71%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 82789/112800 (73%)
+
+Epoch6: Test accuracy: 13593/18800 (72%)
+Model's state_dict for Activation Function: elu, LR Scheduler: StepLR, Optimizer: ASGD, BN: True, Regularization: L2, Dropout: False:
+113
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 84878/112800 (75%)
+
+Epoch1: Test accuracy: 13882/18800 (74%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 90044/112800 (80%)
+
+Epoch2: Test accuracy: 14644/18800 (78%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 89798/112800 (80%)
+
+Epoch3: Test accuracy: 14537/18800 (77%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 93252/112800 (83%)
+
+Epoch4: Test accuracy: 15076/18800 (80%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 93402/112800 (83%)
+
+Epoch5: Test accuracy: 15006/18800 (80%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 98644/112800 (87%)
+
+Epoch6: Test accuracy: 15752/18800 (84%)
+Model's state_dict for Activation Function: elu, LR Scheduler: StepLR, Optimizer: ASGD, BN: True, Regularization: No, Dropout: True:
+114
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 73114/112800 (65%)
+
+Epoch1: Test accuracy: 11991/18800 (64%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 75897/112800 (67%)
+
+Epoch2: Test accuracy: 12577/18800 (67%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 79112/112800 (70%)
+
+Epoch3: Test accuracy: 13001/18800 (69%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 80664/112800 (72%)
+
+Epoch4: Test accuracy: 13228/18800 (70%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 81517/112800 (72%)
+
+Epoch5: Test accuracy: 13368/18800 (71%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 82719/112800 (73%)
+
+Epoch6: Test accuracy: 13651/18800 (73%)
+Model's state_dict for Activation Function: elu, LR Scheduler: StepLR, Optimizer: ASGD, BN: True, Regularization: No, Dropout: False:
+115
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 85284/112800 (76%)
+
+Epoch1: Test accuracy: 13889/18800 (74%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 90064/112800 (80%)
+
+Epoch2: Test accuracy: 14628/18800 (78%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 93073/112800 (83%)
+
+Epoch3: Test accuracy: 15075/18800 (80%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 93967/112800 (83%)
+
+Epoch4: Test accuracy: 15175/18800 (81%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 94122/112800 (83%)
+
+Epoch5: Test accuracy: 15099/18800 (80%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 98652/112800 (87%)
+
+Epoch6: Test accuracy: 15742/18800 (84%)
+Model's state_dict for Activation Function: elu, LR Scheduler: StepLR, Optimizer: ASGD, BN: False, Regularization: L2, Dropout: True:
+116
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 71715/112800 (64%)
+
+Epoch1: Test accuracy: 11817/18800 (63%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 76918/112800 (68%)
+
+Epoch2: Test accuracy: 12721/18800 (68%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 80289/112800 (71%)
+
+Epoch3: Test accuracy: 13201/18800 (70%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 82330/112800 (73%)
+
+Epoch4: Test accuracy: 13607/18800 (72%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 83838/112800 (74%)
+
+Epoch5: Test accuracy: 13791/18800 (73%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 85435/112800 (76%)
+
+Epoch6: Test accuracy: 14061/18800 (75%)
+Model's state_dict for Activation Function: elu, LR Scheduler: StepLR, Optimizer: ASGD, BN: False, Regularization: L2, Dropout: False:
+117
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 77971/112800 (69%)
+
+Epoch1: Test accuracy: 12833/18800 (68%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 86737/112800 (77%)
+
+Epoch2: Test accuracy: 14220/18800 (76%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 89244/112800 (79%)
+
+Epoch3: Test accuracy: 14625/18800 (78%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 91357/112800 (81%)
+
+Epoch4: Test accuracy: 14885/18800 (79%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 93679/112800 (83%)
+
+Epoch5: Test accuracy: 15291/18800 (81%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 95268/112800 (84%)
+
+Epoch6: Test accuracy: 15486/18800 (82%)
+Model's state_dict for Activation Function: elu, LR Scheduler: StepLR, Optimizer: ASGD, BN: False, Regularization: No, Dropout: True:
+118
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 72093/112800 (64%)
+
+Epoch1: Test accuracy: 11898/18800 (63%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 78094/112800 (69%)
+
+Epoch2: Test accuracy: 12932/18800 (69%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 80104/112800 (71%)
+
+Epoch3: Test accuracy: 13153/18800 (70%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 81908/112800 (73%)
+
+Epoch4: Test accuracy: 13525/18800 (72%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 83677/112800 (74%)
+
+Epoch5: Test accuracy: 13821/18800 (74%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 85288/112800 (76%)
+
+Epoch6: Test accuracy: 14027/18800 (75%)
+Model's state_dict for Activation Function: elu, LR Scheduler: StepLR, Optimizer: ASGD, BN: False, Regularization: No, Dropout: False:
+119
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 77785/112800 (69%)
+
+Epoch1: Test accuracy: 12788/18800 (68%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 84489/112800 (75%)
+
+Epoch2: Test accuracy: 13862/18800 (74%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 89548/112800 (79%)
+
+Epoch3: Test accuracy: 14655/18800 (78%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 91308/112800 (81%)
+
+Epoch4: Test accuracy: 14934/18800 (79%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 93016/112800 (82%)
+
+Epoch5: Test accuracy: 15114/18800 (80%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 95392/112800 (85%)
+
+Epoch6: Test accuracy: 15510/18800 (82%)
+Model's state_dict for Activation Function: elu, LR Scheduler: ExponentialLR, Optimizer: SGD, BN: True, Regularization: L2, Dropout: True:
+120
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 72997/112800 (65%)
+
+Epoch1: Test accuracy: 12042/18800 (64%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 75199/112800 (67%)
+
+Epoch2: Test accuracy: 12366/18800 (66%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 75772/112800 (67%)
+
+Epoch3: Test accuracy: 12531/18800 (67%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 75798/112800 (67%)
+
+Epoch4: Test accuracy: 12562/18800 (67%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 76021/112800 (67%)
+
+Epoch5: Test accuracy: 12531/18800 (67%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 76035/112800 (67%)
+
+Epoch6: Test accuracy: 12487/18800 (66%)
+Model's state_dict for Activation Function: elu, LR Scheduler: ExponentialLR, Optimizer: SGD, BN: True, Regularization: L2, Dropout: False:
+121
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 85456/112800 (76%)
+
+Epoch1: Test accuracy: 13984/18800 (74%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 90631/112800 (80%)
+
+Epoch2: Test accuracy: 14780/18800 (79%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 91862/112800 (81%)
+
+Epoch3: Test accuracy: 14974/18800 (80%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 92004/112800 (82%)
+
+Epoch4: Test accuracy: 14983/18800 (80%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 92088/112800 (82%)
+
+Epoch5: Test accuracy: 14982/18800 (80%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 92075/112800 (82%)
+
+Epoch6: Test accuracy: 14982/18800 (80%)
+Model's state_dict for Activation Function: elu, LR Scheduler: ExponentialLR, Optimizer: SGD, BN: True, Regularization: No, Dropout: True:
+122
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 72824/112800 (65%)
+
+Epoch1: Test accuracy: 11975/18800 (64%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 75192/112800 (67%)
+
+Epoch2: Test accuracy: 12448/18800 (66%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 75776/112800 (67%)
+
+Epoch3: Test accuracy: 12496/18800 (66%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 75687/112800 (67%)
+
+Epoch4: Test accuracy: 12512/18800 (67%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 75945/112800 (67%)
+
+Epoch5: Test accuracy: 12494/18800 (66%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 75997/112800 (67%)
+
+Epoch6: Test accuracy: 12494/18800 (66%)
+Model's state_dict for Activation Function: elu, LR Scheduler: ExponentialLR, Optimizer: SGD, BN: True, Regularization: No, Dropout: False:
+123
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 85718/112800 (76%)
+
+Epoch1: Test accuracy: 14030/18800 (75%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 90846/112800 (81%)
+
+Epoch2: Test accuracy: 14805/18800 (79%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 91735/112800 (81%)
+
+Epoch3: Test accuracy: 14908/18800 (79%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 91896/112800 (81%)
+
+Epoch4: Test accuracy: 14917/18800 (79%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 91907/112800 (81%)
+
+Epoch5: Test accuracy: 14924/18800 (79%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 91923/112800 (81%)
+
+Epoch6: Test accuracy: 14923/18800 (79%)
+Model's state_dict for Activation Function: elu, LR Scheduler: ExponentialLR, Optimizer: SGD, BN: False, Regularization: L2, Dropout: True:
+124
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 72120/112800 (64%)
+
+Epoch1: Test accuracy: 11864/18800 (63%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 74445/112800 (66%)
+
+Epoch2: Test accuracy: 12387/18800 (66%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 75044/112800 (67%)
+
+Epoch3: Test accuracy: 12379/18800 (66%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 75092/112800 (67%)
+
+Epoch4: Test accuracy: 12450/18800 (66%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 75028/112800 (67%)
+
+Epoch5: Test accuracy: 12440/18800 (66%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 75226/112800 (67%)
+
+Epoch6: Test accuracy: 12363/18800 (66%)
+Model's state_dict for Activation Function: elu, LR Scheduler: ExponentialLR, Optimizer: SGD, BN: False, Regularization: L2, Dropout: False:
+125
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 77647/112800 (69%)
+
+Epoch1: Test accuracy: 12793/18800 (68%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 81863/112800 (73%)
+
+Epoch2: Test accuracy: 13464/18800 (72%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 82496/112800 (73%)
+
+Epoch3: Test accuracy: 13537/18800 (72%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 82592/112800 (73%)
+
+Epoch4: Test accuracy: 13555/18800 (72%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 82580/112800 (73%)
+
+Epoch5: Test accuracy: 13553/18800 (72%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 82584/112800 (73%)
+
+Epoch6: Test accuracy: 13552/18800 (72%)
+Model's state_dict for Activation Function: elu, LR Scheduler: ExponentialLR, Optimizer: SGD, BN: False, Regularization: No, Dropout: True:
+126
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 71741/112800 (64%)
+
+Epoch1: Test accuracy: 11761/18800 (63%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 74596/112800 (66%)
+
+Epoch2: Test accuracy: 12307/18800 (65%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 75037/112800 (67%)
+
+Epoch3: Test accuracy: 12263/18800 (65%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 75096/112800 (67%)
+
+Epoch4: Test accuracy: 12364/18800 (66%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 75077/112800 (67%)
+
+Epoch5: Test accuracy: 12426/18800 (66%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 75063/112800 (67%)
+
+Epoch6: Test accuracy: 12366/18800 (66%)
+Model's state_dict for Activation Function: elu, LR Scheduler: ExponentialLR, Optimizer: SGD, BN: False, Regularization: No, Dropout: False:
+127
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 77736/112800 (69%)
+
+Epoch1: Test accuracy: 12831/18800 (68%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 81708/112800 (72%)
+
+Epoch2: Test accuracy: 13425/18800 (71%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 82210/112800 (73%)
+
+Epoch3: Test accuracy: 13515/18800 (72%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 82350/112800 (73%)
+
+Epoch4: Test accuracy: 13521/18800 (72%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 82378/112800 (73%)
+
+Epoch5: Test accuracy: 13522/18800 (72%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 82381/112800 (73%)
+
+Epoch6: Test accuracy: 13521/18800 (72%)
+Model's state_dict for Activation Function: elu, LR Scheduler: ExponentialLR, Optimizer: Adam, BN: True, Regularization: L2, Dropout: True:
+128
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 64851/112800 (57%)
+
+Epoch1: Test accuracy: 10657/18800 (57%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 81900/112800 (73%)
+
+Epoch2: Test accuracy: 13472/18800 (72%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 86275/112800 (76%)
+
+Epoch3: Test accuracy: 14144/18800 (75%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 87250/112800 (77%)
+
+Epoch4: Test accuracy: 14253/18800 (76%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 87137/112800 (77%)
+
+Epoch5: Test accuracy: 14310/18800 (76%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 87156/112800 (77%)
+
+Epoch6: Test accuracy: 14284/18800 (76%)
+Model's state_dict for Activation Function: elu, LR Scheduler: ExponentialLR, Optimizer: Adam, BN: True, Regularization: L2, Dropout: False:
+129
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 81049/112800 (72%)
+
+Epoch1: Test accuracy: 13290/18800 (71%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 93469/112800 (83%)
+
+Epoch2: Test accuracy: 15189/18800 (81%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 98023/112800 (87%)
+
+Epoch3: Test accuracy: 15841/18800 (84%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 98638/112800 (87%)
+
+Epoch4: Test accuracy: 15940/18800 (85%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 98814/112800 (88%)
+
+Epoch5: Test accuracy: 15928/18800 (85%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 98944/112800 (88%)
+
+Epoch6: Test accuracy: 15925/18800 (85%)
+Model's state_dict for Activation Function: elu, LR Scheduler: ExponentialLR, Optimizer: Adam, BN: True, Regularization: No, Dropout: True:
+130
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 67106/112800 (59%)
+
+Epoch1: Test accuracy: 11086/18800 (59%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 83485/112800 (74%)
+
+Epoch2: Test accuracy: 13715/18800 (73%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 85665/112800 (76%)
+
+Epoch3: Test accuracy: 14028/18800 (75%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 86255/112800 (76%)
+
+Epoch4: Test accuracy: 14173/18800 (75%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 86129/112800 (76%)
+
+Epoch5: Test accuracy: 14154/18800 (75%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 86186/112800 (76%)
+
+Epoch6: Test accuracy: 14202/18800 (76%)
+Model's state_dict for Activation Function: elu, LR Scheduler: ExponentialLR, Optimizer: Adam, BN: True, Regularization: No, Dropout: False:
+131
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 88227/112800 (78%)
+
+Epoch1: Test accuracy: 14466/18800 (77%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 95622/112800 (85%)
+
+Epoch2: Test accuracy: 15491/18800 (82%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 98072/112800 (87%)
+
+Epoch3: Test accuracy: 15846/18800 (84%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 98431/112800 (87%)
+
+Epoch4: Test accuracy: 15894/18800 (85%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 98508/112800 (87%)
+
+Epoch5: Test accuracy: 15892/18800 (85%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 98507/112800 (87%)
+
+Epoch6: Test accuracy: 15898/18800 (85%)
+Model's state_dict for Activation Function: elu, LR Scheduler: ExponentialLR, Optimizer: Adam, BN: False, Regularization: L2, Dropout: True:
+132
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 2422/112800 (2%)
+
+Epoch1: Test accuracy: 399/18800 (2%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 2387/112800 (2%)
+
+Epoch2: Test accuracy: 381/18800 (2%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 2352/112800 (2%)
+
+Epoch3: Test accuracy: 378/18800 (2%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 2360/112800 (2%)
+
+Epoch4: Test accuracy: 391/18800 (2%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 2393/112800 (2%)
+
+Epoch5: Test accuracy: 401/18800 (2%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 2398/112800 (2%)
+
+Epoch6: Test accuracy: 368/18800 (2%)
+Model's state_dict for Activation Function: elu, LR Scheduler: ExponentialLR, Optimizer: Adam, BN: False, Regularization: L2, Dropout: False:
+133
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 19410/112800 (17%)
+
+Epoch1: Test accuracy: 3156/18800 (17%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 46127/112800 (41%)
+
+Epoch2: Test accuracy: 7664/18800 (41%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 56794/112800 (50%)
+
+Epoch3: Test accuracy: 9342/18800 (50%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 63189/112800 (56%)
+
+Epoch4: Test accuracy: 10393/18800 (55%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 65231/112800 (58%)
+
+Epoch5: Test accuracy: 10746/18800 (57%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 65475/112800 (58%)
+
+Epoch6: Test accuracy: 10760/18800 (57%)
+Model's state_dict for Activation Function: elu, LR Scheduler: ExponentialLR, Optimizer: Adam, BN: False, Regularization: No, Dropout: True:
+134
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 2394/112800 (2%)
+
+Epoch1: Test accuracy: 405/18800 (2%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 2382/112800 (2%)
+
+Epoch2: Test accuracy: 408/18800 (2%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 2428/112800 (2%)
+
+Epoch3: Test accuracy: 400/18800 (2%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 2399/112800 (2%)
+
+Epoch4: Test accuracy: 412/18800 (2%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 2335/112800 (2%)
+
+Epoch5: Test accuracy: 422/18800 (2%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 2315/112800 (2%)
+
+Epoch6: Test accuracy: 406/18800 (2%)
+Model's state_dict for Activation Function: elu, LR Scheduler: ExponentialLR, Optimizer: Adam, BN: False, Regularization: No, Dropout: False:
+135
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 31416/112800 (28%)
+
+Epoch1: Test accuracy: 5152/18800 (27%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 52992/112800 (47%)
+
+Epoch2: Test accuracy: 8596/18800 (46%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 67663/112800 (60%)
+
+Epoch3: Test accuracy: 11033/18800 (59%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 71089/112800 (63%)
+
+Epoch4: Test accuracy: 11592/18800 (62%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 71649/112800 (64%)
+
+Epoch5: Test accuracy: 11703/18800 (62%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 71816/112800 (64%)
+
+Epoch6: Test accuracy: 11720/18800 (62%)
+Model's state_dict for Activation Function: elu, LR Scheduler: ExponentialLR, Optimizer: ASGD, BN: True, Regularization: L2, Dropout: True:
+136
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 72585/112800 (64%)
+
+Epoch1: Test accuracy: 11996/18800 (64%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 75599/112800 (67%)
+
+Epoch2: Test accuracy: 12415/18800 (66%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 75809/112800 (67%)
+
+Epoch3: Test accuracy: 12455/18800 (66%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 75956/112800 (67%)
+
+Epoch4: Test accuracy: 12465/18800 (66%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 76118/112800 (67%)
+
+Epoch5: Test accuracy: 12544/18800 (67%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 76079/112800 (67%)
+
+Epoch6: Test accuracy: 12461/18800 (66%)
+Model's state_dict for Activation Function: elu, LR Scheduler: ExponentialLR, Optimizer: ASGD, BN: True, Regularization: L2, Dropout: False:
+137
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 84751/112800 (75%)
+
+Epoch1: Test accuracy: 13897/18800 (74%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 90626/112800 (80%)
+
+Epoch2: Test accuracy: 14742/18800 (78%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 91825/112800 (81%)
+
+Epoch3: Test accuracy: 14902/18800 (79%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 91955/112800 (82%)
+
+Epoch4: Test accuracy: 14903/18800 (79%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 91918/112800 (81%)
+
+Epoch5: Test accuracy: 14904/18800 (79%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 91881/112800 (81%)
+
+Epoch6: Test accuracy: 14905/18800 (79%)
+Model's state_dict for Activation Function: elu, LR Scheduler: ExponentialLR, Optimizer: ASGD, BN: True, Regularization: No, Dropout: True:
+138
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 73108/112800 (65%)
+
+Epoch1: Test accuracy: 12027/18800 (64%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 75537/112800 (67%)
+
+Epoch2: Test accuracy: 12436/18800 (66%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 75880/112800 (67%)
+
+Epoch3: Test accuracy: 12446/18800 (66%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 75892/112800 (67%)
+
+Epoch4: Test accuracy: 12580/18800 (67%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 75959/112800 (67%)
+
+Epoch5: Test accuracy: 12508/18800 (67%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 75936/112800 (67%)
+
+Epoch6: Test accuracy: 12494/18800 (66%)
+Model's state_dict for Activation Function: elu, LR Scheduler: ExponentialLR, Optimizer: ASGD, BN: True, Regularization: No, Dropout: False:
+139
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 84956/112800 (75%)
+
+Epoch1: Test accuracy: 13977/18800 (74%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 91066/112800 (81%)
+
+Epoch2: Test accuracy: 14833/18800 (79%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 91945/112800 (82%)
+
+Epoch3: Test accuracy: 14951/18800 (80%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 92190/112800 (82%)
+
+Epoch4: Test accuracy: 14967/18800 (80%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 92159/112800 (82%)
+
+Epoch5: Test accuracy: 14962/18800 (80%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 92113/112800 (82%)
+
+Epoch6: Test accuracy: 14963/18800 (80%)
+Model's state_dict for Activation Function: elu, LR Scheduler: ExponentialLR, Optimizer: ASGD, BN: False, Regularization: L2, Dropout: True:
+140
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 71343/112800 (63%)
+
+Epoch1: Test accuracy: 11706/18800 (62%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 74601/112800 (66%)
+
+Epoch2: Test accuracy: 12253/18800 (65%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 74904/112800 (66%)
+
+Epoch3: Test accuracy: 12373/18800 (66%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 75321/112800 (67%)
+
+Epoch4: Test accuracy: 12348/18800 (66%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 75085/112800 (67%)
+
+Epoch5: Test accuracy: 12388/18800 (66%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 75126/112800 (67%)
+
+Epoch6: Test accuracy: 12338/18800 (66%)
+Model's state_dict for Activation Function: elu, LR Scheduler: ExponentialLR, Optimizer: ASGD, BN: False, Regularization: L2, Dropout: False:
+141
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 77754/112800 (69%)
+
+Epoch1: Test accuracy: 12849/18800 (68%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 81779/112800 (72%)
+
+Epoch2: Test accuracy: 13467/18800 (72%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 82245/112800 (73%)
+
+Epoch3: Test accuracy: 13554/18800 (72%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 82372/112800 (73%)
+
+Epoch4: Test accuracy: 13562/18800 (72%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 82376/112800 (73%)
+
+Epoch5: Test accuracy: 13565/18800 (72%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 82381/112800 (73%)
+
+Epoch6: Test accuracy: 13562/18800 (72%)
+Model's state_dict for Activation Function: elu, LR Scheduler: ExponentialLR, Optimizer: ASGD, BN: False, Regularization: No, Dropout: True:
+142
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 72005/112800 (64%)
+
+Epoch1: Test accuracy: 11837/18800 (63%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 74398/112800 (66%)
+
+Epoch2: Test accuracy: 12319/18800 (66%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 74754/112800 (66%)
+
+Epoch3: Test accuracy: 12315/18800 (66%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 74991/112800 (66%)
+
+Epoch4: Test accuracy: 12359/18800 (66%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 75172/112800 (67%)
+
+Epoch5: Test accuracy: 12421/18800 (66%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 74899/112800 (66%)
+
+Epoch6: Test accuracy: 12359/18800 (66%)
+Model's state_dict for Activation Function: elu, LR Scheduler: ExponentialLR, Optimizer: ASGD, BN: False, Regularization: No, Dropout: False:
+143
+Epoch 1
+-------------------------------
+
+Epoch1: Train accuracy: 77637/112800 (69%)
+
+Epoch1: Test accuracy: 12787/18800 (68%)
+Epoch 2
+-------------------------------
+
+Epoch2: Train accuracy: 81962/112800 (73%)
+
+Epoch2: Test accuracy: 13462/18800 (72%)
+Epoch 3
+-------------------------------
+
+Epoch3: Train accuracy: 82463/112800 (73%)
+
+Epoch3: Test accuracy: 13536/18800 (72%)
+Epoch 4
+-------------------------------
+
+Epoch4: Train accuracy: 82519/112800 (73%)
+
+Epoch4: Test accuracy: 13558/18800 (72%)
+Epoch 5
+-------------------------------
+
+Epoch5: Train accuracy: 82529/112800 (73%)
+
+Epoch5: Test accuracy: 13558/18800 (72%)
+Epoch 6
+-------------------------------
+
+Epoch6: Train accuracy: 82522/112800 (73%)
+
+Epoch6: Test accuracy: 13558/18800 (72%)
+Saved topMLP_1_model_ActFn-relu_LRsch-ExponentialLR_Opt-Adam_BN-True_Reg-L2_Drop-False_Acc-0.85.pth with accuracy: 0.85%
+Saved topMLP_2_model_ActFn-relu_LRsch-StepLR_Opt-Adam_BN-True_Reg-No_Drop-False_Acc-0.85.pth with accuracy: 0.85%
+Saved topMLP_3_model_ActFn-leaky_relu_LRsch-ExponentialLR_Opt-Adam_BN-True_Reg-L2_Drop-False_Acc-0.85.pth with accuracy: 0.85%
+Saved topMLP_4_model_ActFn-relu_LRsch-StepLR_Opt-ASGD_BN-True_Reg-No_Drop-False_Acc-0.85.pth with accuracy: 0.85%
+Saved topMLP_5_model_ActFn-relu_LRsch-StepLR_Opt-ASGD_BN-True_Reg-L2_Drop-False_Acc-0.85.pth with accuracy: 0.85%
